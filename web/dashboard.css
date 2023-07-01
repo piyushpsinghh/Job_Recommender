@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 95%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid white;
+    margin-top: 10px;
+    height: auto;
+    font-family: 'Popins',sans-serif;
+    background-image: url('../Assets/iron.jpg');
+    background-size: cover;
+    color: white;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+#acc-cont{
+    padding: 10px;
+}
+
+#log-cont{
+    padding: 10px;
+}
+
+#owner-info{
+    position: absolute;
+    z-index: 5;
+    display: none;
+    width: max-content;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    padding: 10px;
+    height: auto;
+    backdrop-filter: blur(5px);
+    color: white;
+}
+#loading{
+    color: white;
+}
+
+#main-body{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+#left-cont{
+    width: 20%;
+    border: 1px solid white;
+    padding: 10px;
+    height: auto;
+    backdrop-filter: blur(1px);
+
+}
+
+#btn-cont{
+    padding: 10px;
+    backdrop-filter: blur(10px);
+}
+
+#btn-cont>button{
+    display: block;
+    width: 200px;
+    margin: auto;
+    margin-top: 20px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.classification{
+    background-color: rgb(132, 138, 141);
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.classification:hover{
+    background-color: lightcoral;
+    border: none;
+}
+.regression{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.regression:hover{
+    background-color: lightcoral;
+    border: none;
+}
+
+#content-cont{
+    
+    padding: 10px;
+    height: 220px;
+    margin-top: 20px;
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Popins',sans-serif;
+    overflow-y: scroll;
+    backdrop-filter: blur(10px);
+}
+
+#content-cont::-webkit-scrollbar{
+    display: none;
+}
+
+#right-cont{
+    height: 480px;
+    width: 75%;
+    border: 1px solid white;
+    overflow-y: scroll;
+    padding: 10px;
+    backdrop-filter: blur(5px);
+}
+
+#right-cont::-webkit-scrollbar{
+    display: none;
+}

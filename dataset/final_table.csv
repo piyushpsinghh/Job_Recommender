@@ -1,0 +1,1915 @@
+,designation,company_name,Number_of_Employees,job_description,skills,Years_of_Experience,Category,company_class,Department
+0,Business Development Associate (Drive),MakeMyTrip,1000,Function: Sales and Business → Sales / Business Development,"Business Development
+Revenue Management
+Sales",4,Junior,Class1,Sales and Business
+1,Business Manager (Drive),MakeMyTrip,1000,Function: Sales and Business → Sales / Business Development,"Business Development
+Channel Sales
+Key Account Management
+Microsoft Excel
+Microsoft PowerPoint
+Sales
+Stakeholder Management",6,Senior,Class1,Sales and Business
+2,Business Manager (Drive),MakeMyTrip,1000,Function: Sales and Business → Sales / Business Development,"Business Development
+Channel Sales
+Key Account Management
+Microsoft Excel
+Microsoft PowerPoint
+Sales
+Stakeholder Management",6,Senior,Class1,Sales and Business
+3,Key Account Manager (Drive),MakeMyTrip,1000,Function: Sales and Business → Sales / Business Development,"Corporate Sales
+Key Account Management
+Profit and Loss Management
+Sales
+Stakeholder Management",7,Senior,Class1,Sales and Business
+4,Senior Business Development Manager (Drive),MakeMyTrip,1000,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Key Account Management
+Microsoft Excel
+Microsoft PowerPoint
+Sales",5,Senior,Class1,Sales and Business
+5,Core Java Developer (Drive),Publicis Sapient,1000,Function: Software Engineering → Backend Development,"AWS
+Azure
+Google Cloud
+Java
+Kafka
+Kibana
+Monitoring
+Multithreading
+NoSQL
+RDBMS",6,Senior,Class1,Software Engineering
+6,DevOps & Cloud (Drive),Publicis Sapient,1000,Function: IT Operations and Support → DevOps / Cloud,"AWS
+Ansible
+Azure
+CI - CD
+DevOps
+Docker
+Google Cloud
+Kubernetes
+Terraform",6,Senior,Class1,IT Operations and Support
+7,Java Microservices Developer (Drive),Publicis Sapient,1000,Function: Software Engineering → Backend Development,"Amazon API Gateway
+Java
+Microservices
+Multithreading
+Splunk
+Spring Boot",6,Senior,Class1,Software Engineering
+8,Quality Engineering (Selenium) (Drive),Publicis Sapient,1000,Function: Software Engineering → QA / SDET,"API Testing
+Automation Testing
+Behavior Driven Development
+Cucumber
+Data Structures
+Git
+Java
+Manual Testing
+POM
+SDET
+Selenium",6,Senior,Class1,Software Engineering
+9,Inside Sales Specialist (Drive),Skill-Lync,1000,Function: Sales and Business → Sales / Business Development,"Sales
+Telecalling",3,Junior,Class1,Sales and Business
+10,Enterprise Sales Lead (Drive),Cogoport,500,Function: Sales and Business → Sales / Business Development,"Corporate Sales
+Sales",10,Lead,Class3,Sales and Business
+11,Assistant Manager / Deputy Manager - Collection (Drive),FreeCharge,500,Function: Sales and Business → Sales / Business Development,"Budgeting
+Business Development
+Payment Collection
+Sales",8,Lead,Class3,Sales and Business
+12,City Head - Channel Sales (Drive),FreeCharge,500,Function: Sales and Business → Sales / Business Development,"Business Development
+Channel Sales
+Sales",9,Lead,Class3,Sales and Business
+13,Senior Executive - Credit & Risk (Drive),FreeCharge,500,Function: Operations → Accounting / Finance,"Credit Risk Management
+Finance
+Financial Analysis
+LAP",5,Senior,Class3,Operations
+14,BDM / Sr. BDM (Drive),Hike Education,200,Function: Sales and Business → Sales / Business Development,"Business Development
+Lead Generation
+Sales",2,Fresher,Class2,Sales and Business
+15,Sales and Support (Drive),Hike Education,200,Function: Sales and Business → Sales / Business Development,"Sales
+Telecalling",2,Fresher,Class2,Sales and Business
+16,Business Development Executive (Drive),Kutumb,200,Function: Sales and Business → Sales / Business Development,"Business Development
+Sales
+Telecalling",2,Fresher,Class2,Sales and Business
+17,Customer Relations - Renewal Agent (Drive),MyBillBook (FloBiz),500,Function: Sales and Business → Customer Service,"Customer Interaction
+Customer Service",3,Junior,Class3,Sales and Business
+18,Customer Relations Manager - Upsell Agent (Drive),MyBillBook (FloBiz),500,Function: Sales and Business → Customer Service,"Customer Interaction
+Customer Service",3,Junior,Class3,Sales and Business
+19,Inside Sales Associate (Drive),MyBillBook (FloBiz),500,Function: Sales and Business → Sales / Business Development,"Business Development
+Direct Sales
+Sales
+Telecalling",3,Junior,Class3,Sales and Business
+20,AM Sales (Drive),Axis Bank,1000,Function: Sales and Business → Sales / Business Development,"Business Development
+Lead Generation
+Sales",4,Junior,Class1,Sales and Business
+21,Business Development Executive (Drive),Axis Bank,1000,Function: Sales and Business → Sales / Business Development,"Business Development
+Lead Generation
+Sales",1,Fresher,Class1,Sales and Business
+22,SO (Sales Officers) (Drive),Axis Bank,1000,Function: Sales and Business → Sales / Business Development,"Business Development
+Lead Generation
+Sales",3,Junior,Class1,Sales and Business
+23,Zonal Head (Drive),coursefinder.ai,50,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Field Work
+Key Account Management
+Sales",12,Lead,Class4,Sales and Business
+24,Manager - Finance & Accounts (Drive),goGlocal,50,Function: Operations → Accounting / Finance,"Accounting
+Auditing
+Chartered Accountant
+Finance
+Financial Analysis
+Financial Planning
+Financial Reporting
+GST
+Statutory Audit
+Statutory Compliance
+TDS
+Taxation",7,Senior,Class4,Operations
+25,HR Executive (Drive),Hike Education,200,Function: Human Resources → HR Generalist,"Documentation
+Employee Engagement
+Employee Grievances
+Payroll Management",2,Fresher,Class2,Human Resources
+26,Sr. Academic Counselor (Drive),Leap Finance,200,Function: Sales and Business → Sales / Business Development,Sales,5,Senior,Class2,Sales and Business
+27,Finance & Accounts Manager (Drive),New Street Technologies,50,Function: Operations → Accounting / Finance,"Accounting
+Compliance Management
+Financial Analysis
+GST
+MIS
+TDS
+Taxation
+Vendor Management",7,Senior,Class4,Operations
+28,Digital Product Manager (Drive),Piramal Capital & Housing Finance,50,Function: Technical Management → Product Management,Product Management,11,Lead,Class4,Technical Management
+29,Technical Program Manager - 2 (Drive),Piramal Capital & Housing Finance,50,Function: Technical Management → Engineering Management,Program Management,11,Lead,Class4,Technical Management
+30,Oracle EBS Technical Consultant (Drive),Apps Associates,1000,Function: Software Engineering → Other Software Development,Oracle E-Business Suite,10,Lead,Class1,Software Engineering
+31,Senior Cybersecurity Specialist,Bristol Myers Squibb,1000,Function: Software Engineering → QA / SDET,"OWASP
+HTTP
+AWS WAF
+Ticketing and Booking
+JavaScript",5,Senior,Class1,Software Engineering
+32,Android Developer,Delhivery,1000,Function: Software Engineering → Mobile Development,"Android
+Kotlin
+Dagger
+RxJava",7,Senior,Class1,Software Engineering
+33,Oracle CPQ Developer (Drive),Equinix,1000,Function: Software Engineering → Other Software Development,Oracle CPQ,9,Lead,Class1,Software Engineering
+34,Fullstack Developer Advisor [T500 - 7710,FedEx,1000,Function: Software Engineering → Full-Stack Development,"Java
+Angular",6,Senior,Class1,Software Engineering
+35,Android Developer,Innovaccer,1000,Function: Software Engineering → Mobile Development,"Android
+Java
+Kotlin
+Dagger",7,Senior,Class1,Software Engineering
+36,SDE-3 (Backend) (Drive),Jupiter,200,Function: Software Engineering → Backend Development,"Cassandra
+Flask
+Java
+Kafka
+LLD
+Microservices
+MySQL
+Spring Boot",8,Lead,Class2,Software Engineering
+37,Frontend Engineer,One Muthoot,1000,Function: Software Engineering → Frontend Development,"JavaScript
+React.js
+HTML
+CSS
+Angular",8,Lead,Class1,Software Engineering
+38,SDET (Drive),TestVagrant,200,Function: Software Engineering → QA / SDET,"API Testing
+Appium
+Automation Testing
+CI - CD
+Git
+Mobile Apps Testing
+REST Assured
+SDET
+Selenium",5,Senior,Class2,Software Engineering
+39,Recruiting - Operations Executive (Drive),Wayfair,1000,Function: Human Resources → Talent Acquisition,"Background Verification
+Employee Induction
+IT Recruitment
+Microsoft Excel
+Recruitment",10,Lead,Class1,Human Resources
+40,Analyst - Engineer I - Service Desk,ANSR,200,Function: IT Operations and Support → IT Management / IT Support,"PPE
+ITIL
+L1 Support
+System Integration",6,Senior,Class2,IT Operations and Support
+41,Cloud Administrator,Circles.Life,200,"Function: IT Operations and Support → DevOps / Cloud, Systems Administration","AWS
+IT Infrastructure
+Network Administration
+DNS",14,Lead,Class2,IT Operations and Support
+42,System Analyst,Circles.Life,200,Function: Software Engineering → Backend Development,"Magento
+PHP
+Python
+Perl
+Bash",14,Lead,Class2,Software Engineering
+43,Application Developer,CS Soft Solutions,500,"Function: Software Engineering → Backend Development, DevOps / Cloud, UX / Visual Design","Data Structures
+Java
+Spring Boot
+OpenShift
+Grafana",6,Senior,Class3,Software Engineering
+44,Data Engineer,Lendingkart,500,"Function: Software Engineering → Backend Development, Big Data / DWH / ETL, DevOps / Cloud","Python
+Spark
+SQL
+Data Structures
+Algorithms",7,Senior,Class3,Software Engineering
+45,SDE 2&3 - iOS / Android,Lupin,1000,Function: Software Engineering → Mobile Development,"React Native
+JSON
+Swift
+iOS
+Android",8,Lead,Class1,Software Engineering
+46,SDE4,Mystifly,500,Function: Software Engineering → Backend Development,"Java
+Python
+C
+Distributed Systems
+Kafka",10,Lead,Class3,Software Engineering
+47,DevOps Engineer,Symphony Technology Group,50,Function: IT Operations and Support → DevOps / Cloud,"AWS
+Windows
+Terraform
+Kubernetes
+Azure",9,Lead,Class4,IT Operations and Support
+48,Staff Engineer,Tekion,200,Function: Software Engineering → Frontend Development,"React.js
+JavaScript
+jQuery
+HTML
+XML",13,Lead,Class2,Software Engineering
+49,MEAN Stack Developer,TEKsystems,1000,Function: Software Engineering → Full-Stack Development,"Angular
+Express.js
+MongoDB
+Node.js",8,Lead,Class1,Software Engineering
+50,Senior Software Engineer,Bristol Myers Squibb,1000,Function: Software Engineering → Other Software Development,"Salesforce Service Cloud
+Salesforce
+HTML
+Apex
+SOQL",8,Lead,Class1,Software Engineering
+51,Senior Software Engineer,Bristol Myers Squibb,1000,Function: Software Engineering → Backend Development,"Node.js
+Python
+AWS
+SOAP
+SQL",10,Lead,Class1,Software Engineering
+52,Java Developer,Capgemini,1000,Function: Software Engineering → Backend Development,"Java
+Microservices
+AWS
+Spring Boot
+SOAP",9,Lead,Class1,Software Engineering
+53,Solution Architect - .NET,Circles.Life,200,"Function: Software Engineering → Backend Development, Solution Architecture / Presales",".NET
+Episerver
+Sitecore
+Umbraco
+CMS",14,Lead,Class2,Software Engineering
+54,Lead Engineer,Experion Technologies,1000,"Function: Software Engineering → Big Data / DWH / ETL, Data Science / Machine Learning, Full-Stack Development","AWS
+Agile
+Python
+Terraform
+ETL",15,Lead,Class1,Software Engineering
+55,Lead Software Engineer,Experion Technologies,1000,"Function: Software Engineering → Backend Development, DevOps / Cloud, Full-Stack Development","AWS
+Python
+Terraform
+Kubernetes",15,Lead,Class1,Software Engineering
+56,Software Developer 2,FedEx,1000,Function: Software Engineering → Backend Development,"Java
+Microservices
+Spring Boot
+Angular",7,Senior,Class1,Software Engineering
+57,SE / SSE - Java Developer,Innovaccer,1000,Function: Software Engineering → Backend Development,"Java
+Spring Boot
+AWS
+Data Structures
+Algorithms",7,Senior,Class1,Software Engineering
+58,Big Data Engineer,Tata Group,1000,Function: IT Operations and Support → Database Admin / Development,"SQL
+Python
+Database Development
+AWS
+Data Warehousing",8,Lead,Class1,IT Operations and Support
+59,GCP Data Architect,Tata Group,1000,Function: IT Operations and Support → Database Admin / Development,"Database Administration
+Spark
+Google Cloud
+SQL Server
+Database Development",13,Lead,Class1,IT Operations and Support
+60,Software Developer,EG,1000,Function: Software Engineering → Mobile Development,"React Native
+JavaScript
+Titanium",7,Senior,Class1,Software Engineering
+61,Senior Business Intelligence Developer,Epsilon,1000,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"Business Intelligence
+Tableau
+SQL
+Data Visualization
+Power BI",8,Lead,Class1,Data Science and Analysis
+62,Senior Software Engineer,Foundation AI,50,Function: Software Engineering → Backend Development,"Python
+Flask
+FastAPI
+Docker
+Celery",8,Lead,Class4,Software Engineering
+63,C# Fullstack Developer,Money View,500,Function: Software Engineering → Full-Stack Development,"C#
+JavaScript
+Vue.js
+HTML
+SQL Server",8,Lead,Class3,Software Engineering
+64,Automation Test Engineer,Mphasis,1000,Function: Software Engineering → QA / SDET,"Java
+Selenium
+Automation Testing",11,Lead,Class1,Software Engineering
+65,Senior Node Developer,Recrosoft Technologies,500,Function: Software Engineering → Backend Development,"Node.js
+JavaScript
+Express.js
+MongoDB
+AWS",7,Senior,Class3,Software Engineering
+66,Data Visualisation (Tableau Developer),Tata Insights and Quants,200,Function: Software Engineering → Big Data / DWH / ETL,"SQL
+Hadoop
+Tableau
+Python
+ETL",8,Lead,Class2,Software Engineering
+67,Network & Security Administrator,Tech Mahindra,1000,Function: IT Operations and Support → Network Administration,"Network Security
+Palo Alto
+Cisco ASA
+VPN
+Wireless",7,Senior,Class1,IT Operations and Support
+68,Business Development Representative,Tessell,50,Function: IT Operations and Support → Database Admin / Development,"SQL Server
+MySQL
+Database Administration
+T-SQL
+Python",11,Lead,Class4,IT Operations and Support
+69,Embedded Engineer - Multimedia,Vayavya Labs,200,Function: Software Engineering → Embedded / Kernel Development,"Embedded Linux
+C
+C++
+Kernel Development
+GStreamer",6,Senior,Class2,Software Engineering
+70,Full Stack Developer,ANSR,200,Function: Software Engineering → Full-Stack Development,"Java
+Spring
+Angular
+SQL
+Test Driven Development",6,Senior,Class2,Software Engineering
+71,Quality Engineering,ANSR,200,Function: Software Engineering → QA / SDET,"SDET
+Java
+Selenium",9,Lead,Class2,Software Engineering
+72,SDE - 2,Devtron Labs,50,Function: Software Engineering → Backend Development,"Java
+Golang
+Microservices
+AWS
+Spring Boot",5,Senior,Class4,Software Engineering
+73,SDE - 3,Devtron Labs,50,Function: Software Engineering → Backend Development,"Java
+Golang
+Spring Boot
+Data Structures
+AWS",8,Lead,Class4,Software Engineering
+74,Software Quality Engineer III,FedEx,1000,Function: Software Engineering → QA / SDET,"Java
+API Testing
+Postman
+SoapUI
+REST Assured",9,Lead,Class1,Software Engineering
+75,Lead Frontend Developer,Gameskraft,500,Function: Software Engineering → Frontend Development,"React Native
+React.js
+JavaScript
+Redux
+HTML",7,Senior,Class3,Software Engineering
+76,ServiceNow Developer,iLink Digital,1000,Function: Software Engineering → Full-Stack Development,"ServiceNow
+ITSM
+CMDB
+Angular
+API Testing",9,Lead,Class1,Software Engineering
+77,Senior Marketing Consultant,LeanSummits,50,"Function: Marketing → Online Marketing, Project Management, Sales / Business Development","Digital Marketing
+Google Analytics
+Customer Interaction
+SEMrush
+Marketing",10,Lead,Class4,Marketing
+78,Consultant II - Third Party Assessment (VP),Nab,1000,"Function: Operations → Accounting / Finance, Other Software Development","TPM
+Risk Management",15,Lead,Class1,Operations
+79,AEM Developer,Verizon Communications,1000,"Function: Software Engineering → Backend Development, Other Software Development","Adobe Experience Manager (AEM)
+React.js
+Angular
+Servlets",9,Lead,Class1,Software Engineering
+80,Java Architect,Adda52,500,Function: Software Engineering → Backend Development,"Java
+Multithreading
+SmartFoxServer
+SQL",10,Lead,Class3,Software Engineering
+81,Graphic Designer,Emporiom Digital,50,Function: Design and Creative → Graphic Design / Animation,"Photoshop
+Illustrator
+InDesign
+Corel Draw
+Graphic Design",7,Senior,Class4,Design and Creative
+82,Software Developer 2,FedEx,1000,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Java
+Spring Boot
+Microservices
+Data Structures
+Oracle Database",7,Senior,Class1,Software Engineering
+83,Director of Engineering,Jumbotail,500,"Function: Software Engineering → Backend Development, Engineering Management, Full-Stack Development","Engineering Management
+Java
+Microservices
+Node.js
+Python",15,Lead,Class3,Software Engineering
+84,Business Development Executive,Kasplo,200,Function: Sales and Business → Sales / Business Development,"Sales
+Business Development",2,Fresher,Class2,Sales and Business
+85,Java Tech Lead,Mphasis,1000,"Function: Software Engineering → Backend Development, Full-Stack Development, Other Software Development","Java
+Spring Boot
+Hibernate
+jQuery
+Angular",9,Lead,Class1,Software Engineering
+86,UI Developer,Persistent Systems,1000,Function: Software Engineering → Frontend Development,"Angular
+CSS
+HTML
+JavaScript
+React.js",12,Lead,Class1,Software Engineering
+87,Client Support Analyst,Preqin,500,"Function: Operations → Accounting / Finance, Operations Management","Data Analysis
+Customer Service
+Ticketing and Booking
+Business Support Systems (BSS)
+Finance",5,Senior,Class3,Operations
+88,Data Visualisation (Tableau),Tata Insights and Quants,200,Function: IT Operations and Support → Database Admin / Development,"SQL
+Java
+Database Administration
+Tableau
+Hadoop",8,Lead,Class2,IT Operations and Support
+89,Inside Sales Specialist,The Sleep Company,50,"Function: Marketing → Online Marketing, Sales / Business Development","Sales
+Telecalling
+Business Development
+International Sales
+Corporate Sales",6,Senior,Class4,Marketing
+90,SAP HCM Consultant,ADP,1000,Function: IT Operations and Support → Functional / Technical Consulting,"SAP HCM - HR
+UK Payroll
+US Payroll
+Payroll Management",8,Lead,Class1,IT Operations and Support
+91,Business Development Executive,Aphelia Innovations,50,Function: Sales and Business → Sales / Business Development,"Sales
+Corporate Sales
+Business Development
+IT Consulting
+IT Procurement",4,Junior,Class4,Sales and Business
+92,IBM APM Expert,CS Soft Solutions,500,Function: Software Engineering → Big Data / DWH / ETL,"JavaScript
+SQL
+ETL
+IBM Cloud
+Maximo",10,Lead,Class3,Software Engineering
+93,Full Stack Engineer,Meta Z,50,Function: Software Engineering → Full-Stack Development,"Node.js
+React.js
+three.js
+Next.js
+NestJS",7,Senior,Class4,Software Engineering
+94,AutoCAD 2D Solid Modelling,Spiro Gears,200,"Function: Design and Creative → Other Design, Other Software Development","AutoCAD
+Solid Modelling
+Mechanical Engineering
+AutoCAD Mechanical",2,Fresher,Class2,Design and Creative
+95,Software Engineer,StepChange,50,Function: Software Engineering → Backend Development,"Java
+Spring Boot
+Data Structures",11,Lead,Class4,Software Engineering
+96,Inside Sales Specialist,The Sleep Company,50,Function: Sales and Business → Sales / Business Development,"Sales
+Telecalling
+Business Development
+Corporate Sales
+International Sales",6,Senior,Class4,Sales and Business
+97,SDET,ThoughtSpot,1000,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Automation Testing
+C++
+Golang
+Java
+JavaScript
+Python",7,Senior,Class1,Software Engineering
+98,Full Stack Developer,World Compliance Technologies,200,Function: Software Engineering → Full-Stack Development,"Java
+JavaScript
+Angular
+React.js
+Data Structures",5,Senior,Class2,Software Engineering
+99,Senior Full Stack Developer,World Compliance Technologies,200,Function: Software Engineering → Full-Stack Development,"JavaScript
+Java
+Angular
+React.js
+Data Structures",11,Lead,Class2,Software Engineering
+100,Lead Android Developer,DAZN,1000,Function: Software Engineering → Mobile Development,"Kotlin
+Android
+Java",12,Lead,Class1,Software Engineering
+101,Full Stack Developer I,FedEx,1000,Function: Software Engineering → Full-Stack Development,"Java
+Angular
+Azure",3,Junior,Class1,Software Engineering
+102,.NET Developer,IBSFINtech,50,"Function: Software Engineering → Backend Development, Full-Stack Development",".NET
+ASP.NET
+C#",11,Lead,Class4,Software Engineering
+103,Senior Software Engineer,Incedo,1000,Function: Software Engineering → Backend Development,".NET
+SQL Server",5,Senior,Class1,Software Engineering
+104,Telesales Executive,InterAds Exhibitions,50,"Function: Sales and Business → Customer Service, Sales / Business Development","Customer Service
+Sales
+Business Development
+Direct Sales
+Corporate Sales",0,Fresher,Class4,Sales and Business
+105,Data Engineer,Liquide,50,Function: Software Engineering → Big Data / DWH / ETL,"Python
+PySpark
+AWS
+ETL
+SQL",5,Senior,Class4,Software Engineering
+106,Data Enginner,Prophecy,50,Function: Software Engineering → Big Data / DWH / ETL,"Data Warehousing
+Big Data
+Scala
+Airflow
+Apache NiFi",12,Lead,Class4,Software Engineering
+107,VP Engineer,Proxgy,50,"Function: Software Engineering → Backend Development, Engineering Management, Full-Stack Development","ASP.NET
+Angular
+AWS",15,Lead,Class4,Software Engineering
+108,VP Engineer,Proxgy,50,"Function: Software Engineering → Backend Development, Engineering Management, Full-Stack Development","Node.js
+Python
+JavaScript
+Vue.js
+MongoDB",15,Lead,Class4,Software Engineering
+109,SDET,ThoughtSpot,1000,Function: Software Engineering → QA / SDET,"Java
+C++
+Selenium
+Automation Testing
+SDET",8,Lead,Class1,Software Engineering
+110,Salesforce Developer,ANSR,200,Function: Software Engineering → Backend Development,"Salesforce
+Salesforce Data Loader
+Agile
+Unit Testing",8,Lead,Class2,Software Engineering
+111,Principal FPGA Engineer / Senior Manager,AST SpaceMobile,200,Function: Software Engineering → Other Software Development,"FPGAs
+Digital Signal Processing (DSP)
+VLSI Design
+RTL
+Verilog",21,Specialist,Class2,Software Engineering
+112,Software QA Engineer - SDET (T500 - 7709),FedEx,1000,Function: Software Engineering → QA / SDET,"Java
+API Testing",9,Lead,Class1,Software Engineering
+113,Sr. Full Stack Developer,Greyamp Consulting,50,Function: Software Engineering → Full-Stack Development,"MongoDB
+React.js
+Node.js
+SQL
+NoSQL",8,Lead,Class4,Software Engineering
+114,Human Resource Business Partner,Kasplo,200,Function: Sales and Business → Sales / Business Development,"IT Recruitment
+Business Development
+Recruitment",6,Senior,Class2,Sales and Business
+115,Perimeter Engineer,Maersk,1000,Function: IT Operations and Support → IT Security,"Cisco ASA
+Zscaler
+Check Point Firewall
+Blue Coat",12,Lead,Class1,IT Operations and Support
+116,Regional Manager,Suraasa,200,Function: Sales and Business → General Management / Strategy,"Training Management
+Operations Management
+Corporate Strategy
+Learning and Development",10,Lead,Class2,Sales and Business
+117,Instrumentation Designer,Taal Tech,1000,"Function: Technical Management → Engineering Management, Operations Management, Other Design","MicroStation
+AutoCAD
+Instrumentation Design",10,Lead,Class1,Technical Management
+118,Senior Software Engineer,upGrad,200,Function: Software Engineering → Frontend Development,"Next.js
+React.js
+TypeScript
+CSS
+HTML",6,Senior,Class2,Software Engineering
+119,Sr. Business Development Manager,WhatNext IMS,50,Function: Marketing → Event Management,"Event Management
+Corporate Events
+Digital Marketing
+Event Planning
+Social Media Marketing",8,Lead,Class4,Marketing
+120,Backend Developer (Java Or Python +AWS),Amantya Technologies,500,Function: Software Engineering → Backend Development,"Java
+Python
+AWS Lambda
+AWS
+AWS CloudFormation",13,Lead,Class3,Software Engineering
+121,DevOps Director,BharatPe,200,"Function: Software Engineering → Backend Development, DevOps / Cloud","Python
+DevOps
+Golang
+CI - CD
+Kubernetes",16,Specialist,Class2,Software Engineering
+122,Java Developer,Digital Automation Systems,50,"Function: Software Engineering → Backend Development, Full-Stack Development","Spring Boot
+Hibernate
+J2EE
+Java
+AWS",5,Senior,Class4,Software Engineering
+123,Full Stack Developer III (T500 - 7707),FedEx,1000,Function: Software Engineering → Full-Stack Development,"Java
+Angular",9,Lead,Class1,Software Engineering
+124,Full Stack III,FedEx,1000,Function: Software Engineering → Full-Stack Development,"Java
+Angular
+Microservices",9,Lead,Class1,Software Engineering
+125,Project Manager,Hexaware Technologies,1000,"Function: Operations → Accounting / Finance, Customer Service, Project Management","Project Management
+Accounting
+KPO
+BRS
+Record to Report",15,Lead,Class1,Operations
+126,Solace Developer,Infosys,1000,Function: Software Engineering → Other Software Development,"CI - CD
+SAP ABAP",8,Lead,Class1,Software Engineering
+127,Solace Developer,Infosys,1000,Function: Software Engineering → Other Software Development,CI - CD,8,Lead,Class1,Software Engineering
+128,Principal Consultant - TM1,kipi.bi,500,Function: Data Science and Analysis → Data Analysis / Business Intelligence,TM1,10,Lead,Class3,Data Science and Analysis
+129,Technical Program Manager - Java (T500 - 7687),Lululemon,1000,Function: Technical Management → Product Management,"Java
+Microservices",15,Lead,Class1,Technical Management
+130,Software Development in Test,7-Eleven,1000,Function: Software Engineering → QA / SDET,"Java
+Selenium
+API Testing",8,Lead,Class1,Software Engineering
+131,Software Development in Test,7-Eleven,1000,Function: Software Engineering → QA / SDET,"C++
+Selenium
+API Testing",8,Lead,Class1,Software Engineering
+132,Software Development in Test,7-Eleven,1000,Function: Software Engineering → QA / SDET,"Python
+Selenium
+API Testing",8,Lead,Class1,Software Engineering
+133,Software Development in Test - CX,7-Eleven,1000,Function: Software Engineering → QA / SDET,"JavaScript
+Selenium
+API Testing",8,Lead,Class1,Software Engineering
+134,Backend Development (Java Or Python + AWS),Amantya Technologies,500,Function: Software Engineering → Backend Development,"Java
+Python
+AWS
+AWS Glue
+AWS Lambda",8,Lead,Class3,Software Engineering
+135,Software Engineer,Cholamandalam MS General Insurance,1000,Function: Software Engineering → Backend Development,"Java
+Spring Boot
+Angular
+React.js
+JavaScript",9,Lead,Class1,Software Engineering
+136,Camel Integrators Developer,Mphasis,1000,Function: Software Engineering → Other Software Development,"Camel
+Spring
+Apache Beam",9,Lead,Class1,Software Engineering
+137,Java Tech Lead Engineer,Mphasis,1000,Function: Software Engineering → Full-Stack Development,"Java
+Spring Boot
+REST Assured
+Hibernate",9,Lead,Class1,Software Engineering
+138,Senior Software Engineer,upGrad,200,"Function: Software Engineering → Frontend Development, Other Software Development","React.js
+Next.js
+JavaScript
+HTML
+CSS",7,Senior,Class2,Software Engineering
+139,Software Engineer,Wipro,1000,Function: Software Engineering → Other Software Development,"Angular
+Spring Boot
+Microservices
+MongoDB
+Java",10,Lead,Class1,Software Engineering
+140,IAM Architect,Aujas,500,"Function: IT Operations and Support → IT Management / IT Support, IT Security","Identity Access Management (IAM)
+SSO
+SailPoint",15,Lead,Class3,IT Operations and Support
+141,Data Engineer,CS Soft Solutions,500,"Function: Software Engineering → Big Data / DWH / ETL, Other Software Development","Snowflake
+Matillion
+AWS",10,Lead,Class3,Software Engineering
+142,SDET - Manager,Elevate K-12,500,Function: Software Engineering → QA / SDET,"SDET
+Automation Testing
+Selenium
+Quality Assurance
+Appium",13,Lead,Class3,Software Engineering
+143,Firmware Developer,Mirafra Technologies,1000,Function: Software Engineering → Embedded / Kernel Development,"Embedded C
+Cortex
+RTOS
+Embedded Systems",7,Senior,Class1,Software Engineering
+144,Data Engineer,SigTech,200,"Function: Software Engineering → Big Data / DWH / ETL, Data Science / Machine Learning","Amazon Athena
+Python
+SQL
+AWS Lambda
+Kafka",7,Senior,Class2,Software Engineering
+145,Project Manager,Simplotel,50,Function: Technical Management → Project Management,"Project Management
+Agile
+Scrum
+PMO
+Operations Management",5,Senior,Class4,Technical Management
+146,Senior / Lead Finance and Accounts Analyst,Simplotel,50,Function: Operations → Accounting / Finance,"GST
+Income Tax
+Accounting
+Finance
+Auditing",5,Senior,Class4,Operations
+147,Android Engineer,Vance,50,Function: Software Engineering → Mobile Development,"Android
+Android Jetpack",5,Senior,Class4,Software Engineering
+148,iOS Developer,Vance,50,Function: Software Engineering → Mobile Development,"Swift
+SwiftUI
+iOS
+Git
+Xcode",4,Junior,Class4,Software Engineering
+149,Product Marketing Manager,XFlow,50,Function: Marketing → Brand Management,"Product Marketing
+Marketing",9,Lead,Class4,Marketing
+150,Solution Engineer,Doceree,50,Function: Software Engineering → Backend Development,"Python
+Node.js
+AWS
+MongoDB
+NoSQL",7,Senior,Class4,Software Engineering
+151,Software Engineer,Domestika,500,"Function: Software Engineering → Backend Development, Frontend Development","React.js
+Next.js
+NoSQL
+CSS
+SQL",5,Senior,Class3,Software Engineering
+152,Software Developer I - AEM Developer (T500 - 7632),FedEx,1000,Function: Software Engineering → Full-Stack Development,"Java
+Adobe Experience Manager (AEM)",3,Junior,Class1,Software Engineering
+153,Frontend Staff / Lead Engineer,Flipkart,1000,Function: Software Engineering → Frontend Development,"React.js
+JavaScript
+HTML
+CSS",12,Lead,Class1,Software Engineering
+154,Big Data Engineer,Google,1000,"Function: Software Engineering → Backend Development, Big Data / DWH / ETL","Hadoop
+PySpark
+Python
+Kafka
+JavaScript",10,Lead,Class1,Software Engineering
+155,Frontend Developer,Hub,200,Function: Software Engineering → Frontend Development,"JavaScript
+React.js
+Redux
+React Native
+Angular",5,Senior,Class2,Software Engineering
+156,Principal Architect,PhysicsWallah,1000,Function: Software Engineering → Backend Development,"Java
+Python
+Node.js
+Spring Boot
+Golang",13,Lead,Class1,Software Engineering
+157,SDE3 (DevOps Engineer),PhysicsWallah,1000,Function: IT Operations and Support → DevOps / Cloud,"Kubernetes
+AWS
+Terraform",8,Lead,Class1,IT Operations and Support
+158,Cloud Security Engineer - DevOps Engineer,Trace One,200,"Function: IT Operations and Support → DevOps / Cloud, IT Security","Information Security
+DevOps
+PowerShell
+AWS
+CISSP",10,Lead,Class2,IT Operations and Support
+159,User Engineer,XFlow,50,Function: IT Operations and Support → Solution Architecture / Presales,"Presales
+Java
+Technical Support",7,Senior,Class4,IT Operations and Support
+160,HR Recruiter (Insurance),Aasaanjobs,500,Function: Human Resources → Talent Acquisition,"Recruitment
+Employee Induction",2,Fresher,Class3,Human Resources
+161,Presales Consultant,AppSecure Security,50,Function: Sales and Business → Sales / Business Development,"Presales
+Information Security
+Corporate Sales
+International Sales",10,Lead,Class4,Sales and Business
+162,Lead Software Engineer,DAZN,1000,Function: Software Engineering → Full-Stack Development,"React.js
+Node.js",9,Lead,Class1,Software Engineering
+163,Chartered Accountant,Dibber,1000,Function: Operations → Accounting / Finance,"Accounting
+Chartered Accountant
+Finance",10,Lead,Class1,Operations
+164,Asst Vice President - Business Process Engineering,HDFC ERGO,1000,Function: Technical Management → Project Management,"Business Process Management (BPM)
+SOP
+Project Management
+Process Improvement",12,Lead,Class1,Technical Management
+165,VP - Engineer,Proxgy,50,"Function: Technical Management → Engineering Management, Product Management","ASP.NET
+AWS
+.NET
+Angular",15,Lead,Class4,Technical Management
+166,Java Developer (Backend - Cloud Connected Services),Stellantis,1000,"Function: Software Engineering → Backend Development, DevOps / Cloud","Java
+Microservices
+AWS
+AWS Lambda
+SQL",9,Lead,Class1,Software Engineering
+167,Python Developer (Backend - Cloud Connected Services),Stellantis,1000,"Function: Software Engineering → Backend Development, DevOps / Cloud","Python
+Microservices
+AWS
+AWS Lambda
+Amazon DynamoDB",9,Lead,Class1,Software Engineering
+168,Software Engineer,Stellantis,1000,Function: Software Engineering → Other Software Development,"Embedded C
+Java
+C
+C++",9,Lead,Class1,Software Engineering
+169,Machine Learning Engineer 2,Tekion,200,Function: Data Science and Analysis → Data Science / Machine Learning,"Machine Learning
+NLP
+TensorFlow
+Python
+SQL",9,Lead,Class2,Data Science and Analysis
+170,Business Development Manager,Aasaanjobs,500,Function: Marketing → PR / Communications,"Public Relations
+Corporate Communication",6,Senior,Class3,Marketing
+171,Executive Sales Manager / BDM,Bajaj Allianz General Insurance,1000,Function: Sales and Business → Sales / Business Development,"Sales
+Business Development
+Direct Sales
+Corporate Sales
+International Sales",6,Senior,Class1,Sales and Business
+172,Technical Data Analyst [T500 - 5120,Inspire Brands,1000,Function: Data Science and Analysis → Data Analysis / Business Intelligence,Data Warehousing,6,Senior,Class1,Data Science and Analysis
+173,Technical Data Analyst [T500 - 6031,Inspire Brands,1000,Function: Data Science and Analysis → Data Analysis / Business Intelligence,Data Warehousing,6,Senior,Class1,Data Science and Analysis
+174,Solution Architect,NexTurn,200,Function: IT Operations and Support → Solution Architecture / Presales,".NET
+Angular
+AWS
+Jenkins
+Solution Architecture",19,Specialist,Class2,IT Operations and Support
+175,SD - WAN Engineer - L3,NTT,1000,Function: Software Engineering → Other Software Development,SD-WAN,12,Lead,Class1,Software Engineering
+176,Quality Analyst,PayU,1000,Function: Software Engineering → QA / SDET,"Appium
+Selenium
+JMeter",8,Lead,Class1,Software Engineering
+177,SDE - 3,StepChange,50,Function: Software Engineering → Backend Development,"Java
+Spring Boot
+MySQL
+JavaScript
+Data Structures",10,Lead,Class4,Software Engineering
+178,Business Development Manager,The Famous,10,"Function: IT Operations and Support → IT Management / IT Support, Other Software Development, Sales / Business Development","Sales
+Lead Generation
+IT Infrastructure",4,Junior,Class4,IT Operations and Support
+179,Full Stack Engineer,The Famous,10,"Function: IT Operations and Support → DevOps / Cloud, Full-Stack Development, Mobile Development","JavaScript
+AWS
+CI - CD
+DevOps
+React.js",8,Lead,Class4,IT Operations and Support
+180,Admission Counsellor,Able Jobs,50,Function: Sales and Business → Sales / Business Development,"Education Counselling
+Counselling
+Business Development",3,Junior,Class4,Sales and Business
+181,Software Developer Advisor - Android (T500 - 7686),FedEx,1000,Function: Software Engineering → Mobile Development,"Android
+Java",12,Lead,Class1,Software Engineering
+182,Software Developer Advisor - iOS [T500 - 7688,FedEx,1000,Function: Software Engineering → Mobile Development,"iOS
+Swift",12,Lead,Class1,Software Engineering
+183,Software Engineer,HTC Global Services,1000,Function: Software Engineering → Backend Development,.NET,10,Lead,Class1,Software Engineering
+184,Senior Analyst - DevOps Engineer,Nab,1000,Function: IT Operations and Support → DevOps / Cloud,"SailPoint
+DevOps
+AWS
+Identity Access Management (IAM)
+Jenkins",10,Lead,Class1,IT Operations and Support
+185,Solution Architect,NexTurn,200,"Function: Software Engineering → Other Software Development, Solution Architecture / Presales",".NET
+Angular
+AWS",19,Specialist,Class2,Software Engineering
+186,Senior Technology Program Manager,Redica Systems,200,Function: Technical Management → Project Management,"Agile
+Scrum
+Project Management
+Kanban",8,Lead,Class2,Technical Management
+187,Full Stack Developer,The Famous,10,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","React.js
+Node.js
+JavaScript
+AWS
+Express.js",4,Junior,Class4,Software Engineering
+188,Technical Project Manager,The Famous,10,"Function: IT Operations and Support → IT Management / IT Support, Mobile Development, Project Management","Agile
+Scrum
+Project Management
+IT Support
+Customer Service",4,Junior,Class4,IT Operations and Support
+189,Test Automation Engineer,The Famous,10,"Function: IT Operations and Support → DevOps / Cloud, Engineering Management, QA / SDET","CI - CD
+Selenium
+AWS
+Automation Testing
+Python",8,Lead,Class4,IT Operations and Support
+190,Business Development Manager,Aasaanjobs,500,"Function: IT Operations and Support → Database Admin / Development, Sales / Business Development","Quality Assurance
+Insurance Operations
+Sales Recruitment
+Sales Forecasting
+Insurance Broking",6,Senior,Class3,IT Operations and Support
+191,Customer Support Executive,Aasaanjobs,500,"Function: Sales and Business → Customer Service, General Management / Strategy, Sales / Business Development","Customer Service
+Customer Relationship
+Customer Interaction
+Telecalling
+Quality Assurance",2,Fresher,Class3,Sales and Business
+192,.NET Fullstack Developer,Axi,200,Function: Software Engineering → Full-Stack Development,".NET
+C#
+JavaScript
+Azure
+VB.NET",13,Lead,Class2,Software Engineering
+193,Area Sales Manager,Enlite Research,50,Function: Sales and Business → Sales / Business Development,Sales,5,Senior,Class4,Sales and Business
+194,Manager / Sr. Manager - Integrations & IT Project,HDFC ERGO,1000,Function: Software Engineering → Other Software Development,"Apigee
+Azure API Management
+API Testing
+Google APIs",10,Lead,Class1,Software Engineering
+195,Business Development Executive,iThrive - Healing & Beyond,50,Function: Sales and Business → Sales / Business Development,"Sales
+Business Development
+Direct Sales
+Lead Generation",3,Junior,Class4,Sales and Business
+196,Senior Software Engineer,Lendingkart,500,Function: Software Engineering → Backend Development,"Java
+Data Structures
+Spring Boot
+LLD
+Microservices",7,Senior,Class3,Software Engineering
+197,Senior DevOps Engineer,Money View,500,Function: IT Operations and Support → DevOps / Cloud,"AWS
+DevOps
+Linux
+Shell Scripting
+CI - CD",10,Lead,Class3,IT Operations and Support
+198,Fullstack Developer,Wipro,1000,"Function: Software Engineering → Frontend Development, Full-Stack Development","React.js
+Spring Boot
+Microservices
+JavaScript
+Kafka",9,Lead,Class1,Software Engineering
+199,Functional Consultant,Zetwerk,1000,Function: IT Operations and Support → Functional / Technical Consulting,"ERP Implementation
+Digital Transformation
+CRM",10,Lead,Class1,IT Operations and Support
+200,Product Owner,7-Eleven,1000,Function: Technical Management → Product Management,"Jira
+Agile
+Confluence
+Scrum",9,Lead,Class1,Technical Management
+201,Area Sales Manager - MMR,Enlite Research,50,Function: Sales and Business → Sales / Business Development,Sales,5,Senior,Class4,Sales and Business
+202,Mobile Developer,EY,1000,Function: Software Engineering → Mobile Development,"React Native
+iOS
+Android",10,Lead,Class1,Software Engineering
+203,Business Development Executive,InnovationM,200,Function: Sales and Business → Sales / Business Development,"Business Development
+Sales
+Telecalling",5,Senior,Class2,Sales and Business
+204,Infrastructure Engineer 2,PhysicsWallah,1000,Function: IT Operations and Support → DevOps / Cloud,"Docker
+AWS
+Python
+Kubernetes
+CI - CD",5,Senior,Class1,IT Operations and Support
+205,Infrastructure Engineer 2,PhysicsWallah,1000,Function: IT Operations and Support → DevOps / Cloud,"Golang
+Kubernetes
+AWS
+Docker
+Python",5,Senior,Class1,IT Operations and Support
+206,Infrastructure Engineer 3,PhysicsWallah,1000,Function: IT Operations and Support → DevOps / Cloud,"Docker
+AWS
+Python
+Kubernetes
+CI - CD",8,Lead,Class1,IT Operations and Support
+207,Sr. / Lead DevOps Engineer,Sequoia Consulting Group,500,Function: IT Operations and Support → DevOps / Cloud,"CI - CD
+Linux
+AWS
+Azure
+Chef
+Jenkins
+Puppet",11,Lead,Class3,IT Operations and Support
+208,HR Manager,vCommission,200,Function: Human Resources → HR Generalist,"Employee Benefits
+Employee Engagement
+Learning and Development
+Recruitment
+Talent Management",3,Junior,Class2,Human Resources
+209,Engineering Manager,Verizon Communications,1000,Function: Software Engineering → Backend Development,"Java
+Microservices
+Spring Boot",12,Lead,Class1,Software Engineering
+210,Digital Marketing & SEO Specialist,CouponDunia,200,Function: Marketing → SEO / SEM,"Google Ads
+SEM
+SEO",6,Senior,Class2,Marketing
+211,Digital Analyst,Lenskart.com,1000,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"Google Analytics
+BigQuery
+SQL
+Data Analysis
+Digital Marketing",6,Senior,Class1,Data Science and Analysis
+212,Data Engineer,Mensa Brands,50,Function: Software Engineering → Big Data / DWH / ETL,"Python
+SQL
+ETL
+pandas
+PySpark",6,Senior,Class4,Software Engineering
+213,Financial Planning Analysis (FPA),PhysicsWallah,1000,Function: Operations → Accounting / Finance,"Chartered Accountant
+Financial Planning
+Financial Reporting
+Financial Analysis",5,Senior,Class1,Operations
+214,Account Executive,Prodt Consulting Services,10,Function: Operations → Accounting / Finance,"Accounting
+Finance
+Taxation
+Budgeting
+GST
+Income Tax
+Payroll Management
+Tally",2,Fresher,Class4,Operations
+215,Graphic Designer,Prototyze,200,Function: Design and Creative → Graphic Design / Animation,"Graphic Design
+Illustrator
+InDesign
+Photoshop",6,Senior,Class2,Design and Creative
+217,Senior Data Engineer,Walmart Global Tech India,1000,Function: Software Engineering → Big Data / DWH / ETL,"Data Analysis
+Data Streaming
+Data Warehousing
+Hadoop
+Hive
+Kafka
+Spark
+SQL",9,Lead,Class1,Software Engineering
+218,Fullstack Developer,Wipro,1000,Function: Software Engineering → Full-Stack Development,"Java
+React.js
+Microservices
+Spring",10,Lead,Class1,Software Engineering
+219,Mobile Application Developer,Ziroh Labs,10,Function: Software Engineering → Mobile Development,"Swift
+iOS
+Android
+React Native",9,Lead,Class4,Software Engineering
+220,Senior Software Engineer,ANSR,200,Function: Software Engineering → Frontend Development,"React.js
+TypeScript
+Azure
+AWS
+DevOps",12,Lead,Class2,Software Engineering
+221,Adobe Analytics Developer,Awign,500,Function: Software Engineering → Other Software Development,Adobe Experience Manager (AEM),6,Senior,Class3,Software Engineering
+222,React Native Developer,GlobalLogic,1000,Function: Software Engineering → Frontend Development,"React Native
+React.js
+Redux
+JavaScript
+SQLite",9,Lead,Class1,Software Engineering
+223,Android Developer,Greenlight Planet India,1000,Function: Software Engineering → Mobile Development,"Android
+Kotlin
+Java
+RxJava",4,Junior,Class1,Software Engineering
+224,Inside Sales Executive,HCL Technologies,1000,"Function: IT Operations and Support → IT Management / IT Support, PR / Communications, Sales / Business Development","Sales
+IT Support
+IT Consulting
+Business Development
+CRM",6,Senior,Class1,IT Operations and Support
+225,Digital Analytics,Lenskart.com,1000,"Function: Data Science and Analysis → Data Analysis / Business Intelligence, Functional / Technical Consulting, Project Management","SQL
+Power BI
+Google Analytics
+BigQuery
+Tableau",5,Senior,Class1,Data Science and Analysis
+226,SDE 4,Mystifly,500,Function: Software Engineering → Backend Development,"Java
+Spring",11,Lead,Class3,Software Engineering
+227,International Voice Process,Refactor Academy,50,Function: Sales and Business → Customer Service,"Customer Interaction
+Customer Relationship
+Customer Service
+Key Account Management",0,Fresher,Class4,Sales and Business
+228,Dotnet Developer,TEK Soft Labs,50,Function: Software Engineering → Backend Development,"C#
+.NET
+ASP.NET",8,Lead,Class4,Software Engineering
+229,UI Developer - Angular,XenonStack,200,Function: Software Engineering → Frontend Development,"CSS
+HTML
+JavaScript
+Angular
+React.js",3,Junior,Class2,Software Engineering
+230,SQL Database Administrator,7-Eleven,1000,Function: IT Operations and Support → Database Admin / Development,"SQL Server
+Azure
+Data Migration
+SSIS
+Database Administration",5,Senior,Class1,IT Operations and Support
+231,Lead - Cyber Risk Analyst,Amagi Corporation,500,Function: IT Operations and Support → IT Security,"Application Security
+Cloud Security
+Information Security
+Network Security
+Vulnerability Assessment",8,Lead,Class3,IT Operations and Support
+232,Product Manager,CareFi,10,Function: Technical Management → Product Management,"Product Management
+Loans
+Product Lifecycle Management",5,Senior,Class4,Technical Management
+233,Salesforce Developer,Horizontal Digital,500,Function: Software Engineering → Other Software Development,"Salesforce
+Quality Assurance
+Salesforce Service Cloud",6,Senior,Class3,Software Engineering
+234,Information Security Analyst - IT Risk,InMobi,1000,Function: IT Operations and Support → IT Security,Information Security,4,Junior,Class1,IT Operations and Support
+236,0365 Developer,Nab,1000,Function: Software Engineering → Other Software Development,"SharePoint Framework
+Canvas
+Microsoft Office
+Microsoft Dynamics
+Microsoft Power Apps",8,Lead,Class1,Software Engineering
+237,Lead Engineer,Nykaa,500,Function: Software Engineering → Backend Development,"Python
+Django",7,Senior,Class3,Software Engineering
+238,Sr. DevOps Engineer,Symphony Technology Group,50,Function: IT Operations and Support → DevOps / Cloud,"Azure DevOps Server
+Azure
+DevOps
+PowerShell
+Terraform",8,Lead,Class4,IT Operations and Support
+239,Full Stack Developer,Verizon Communications,1000,Function: Software Engineering → Full-Stack Development,"React.js
+Microservices
+Spring Boot
+Java",6,Senior,Class1,Software Engineering
+240,SWE II - QA Automation Engr,7-Eleven Global Solution Center,500,Function: Software Engineering → QA / SDET,"Appium
+REST Assured
+Selenium
+Manual Testing
+Automation Testing",7,Senior,Class3,Software Engineering
+241,Business Development Associate,BYJU'S,1000,Function: Sales and Business → Sales / Business Development,"Business Development
+Direct Sales
+Sales",0,Fresher,Class1,Sales and Business
+242,Sales Trainee,Futops Technologies India,50,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+International Sales
+Sales",1,Fresher,Class4,Sales and Business
+243,Wordpress Developer,Growth99,50,Function: Software Engineering → Full-Stack Development,"Elementor
+PHP
+Wordpress",6,Senior,Class4,Software Engineering
+244,SQL DBA,Planview,1000,Function: IT Operations and Support → Database Admin / Development,"SQL
+Azure SQL Database
+Windows
+SQL Server
+Python",12,Lead,Class1,IT Operations and Support
+245,Senior Product Designer,Proxgy,50,Function: Design and Creative → Graphic Design / Animation,"Graphic Design
+UX Design",8,Lead,Class4,Design and Creative
+246,QA Engineer,Redica Systems,200,Function: Software Engineering → QA / SDET,"Java
+Selenium
+REST Assured
+SDET
+Automation Testing",6,Senior,Class2,Software Engineering
+247,Sales Development Executive,SignalX,10,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Sales",5,Senior,Class4,Sales and Business
+248,Product Development (Non - Health),UloApp,50,Function: Technical Management → Product Management,Product Management,4,Junior,Class4,Technical Management
+249,Sr. Java Developer,Verint,1000,Function: Software Engineering → Backend Development,"Java
+AWS
+Kubernetes
+Spring Boot
+Microservices",7,Senior,Class1,Software Engineering
+250,QA SE 3,7-Eleven Global Solution Center,500,Function: Software Engineering → QA / SDET,"Automation Testing
+Appium
+REST Assured
+Manual Testing
+Selenium",10,Lead,Class3,Software Engineering
+251,Senior Software Engineer - Java - R4,Blu Smart,50,"Function: Software Engineering → Backend Development, Other Software Development","Java
+Spring Boot
+AWS
+MongoDB
+Redis",5,Senior,Class4,Software Engineering
+252,Senior Data Integration Consultant,GainInsights Solutions,200,Function: Data Science and Analysis → Data Science / Machine Learning,"Python
+AWS Glue
+ETL
+CI - CD
+Talend",8,Lead,Class2,Data Science and Analysis
+253,Lead Software Engineer,Headout,200,Function: Software Engineering → Mobile Development,"Android
+Hybrid Apps
+React Native
+iOS",8,Lead,Class2,Software Engineering
+254,Inside Sales Councelor,Palle Consulting,500,Function: Sales and Business → Sales / Business Development,"Sales
+Corporate Sales
+Counselling
+Business Development",3,Junior,Class3,Sales and Business
+255,DevOps Engineer,PhysicsWallah,1000,Function: IT Operations and Support → DevOps / Cloud,"Docker
+Kubernetes
+AWS
+MySQL
+Python",5,Senior,Class1,IT Operations and Support
+256,Data Engineer - 3,Proxgy,50,"Function: Software Engineering → Backend Development, Big Data / DWH / ETL, Data Science / Machine Learning","Python
+Spark
+Hive
+PySpark
+Airflow",10,Lead,Class4,Software Engineering
+257,Mobile Researcher,Shield,200,Function: Software Engineering → Mobile Development,"Android
+Mobile Device Management",8,Lead,Class2,Software Engineering
+258,Front End Developer,Wipro,1000,Function: Software Engineering → Frontend Development,"React.js
+Microservices
+Spring Boot
+Kafka",10,Lead,Class1,Software Engineering
+259,Senior Software Engineer,Xperium,50,"Function: Software Engineering → Backend Development, Full-Stack Development","Python
+Django
+Flask",7,Senior,Class4,Software Engineering
+260,Research Manager,Avataar,500,Function: Design and Creative → Graphic Design / Animation,"Computer Vision
+Python
+Neural Networks
+PyTorch
+Graphic Design",12,Lead,Class3,Design and Creative
+261,Sr. Software Development Engineer,Avis Budget Group,1000,Function: Software Engineering → Backend Development,"Java
+Kafka
+AWS
+Microservices
+Spring Boot",8,Lead,Class1,Software Engineering
+262,Lead Shopify Developer,Foxtale,50,Function: Software Engineering → Full-Stack Development,"Shopify
+JavaScript
+jQuery",7,Senior,Class4,Software Engineering
+263,Business Development Specialist,HOM,500,Function: Sales and Business → Sales / Business Development,"Business Development
+International Sales
+Telecalling
+Direct Sales
+Sales",3,Junior,Class3,Sales and Business
+264,SailPoint Developer,Macquarie,1000,Function: Software Engineering → Backend Development,"SailPoint
+Java
+Identity Access Management (IAM)",9,Lead,Class1,Software Engineering
+265,T24 - Testing COE - Tester,MUFG,1000,Function: Software Engineering → QA / SDET,"Temenos
+Jira
+Architecture
+Loans
+Foreign Exchange",5,Senior,Class1,Software Engineering
+266,Head of DevOps,Sprinklr,1000,Function: IT Operations and Support → DevOps / Cloud,"AWS
+Kubernetes
+Docker
+DevOps
+Ansible",14,Lead,Class1,IT Operations and Support
+267,General Manager - Probiotics,Starhi Herbs,500,"Function: Sales and Business → General Management / Strategy, Project Management","Microbiology
+Project Management
+Vendor Management
+Procurement
+Production Management",12,Lead,Class3,Sales and Business
+268,MQ Admin,Verizon Communications,1000,"Function: IT Operations and Support → Database Admin / Development, Systems Administration","IBM MQ
+Kafka
+RabbitMQ",6,Senior,Class1,IT Operations and Support
+269,Software Developer,Wipro,1000,Function: Software Engineering → Full-Stack Development,"Java
+Kafka
+Microservices
+Spring Boot
+JavaScript
+React.js",10,Lead,Class1,Software Engineering
+270,Sales Executive Trainer,Aakash Educational Services,1000,Function: Sales and Business → General Management / Strategy,Business Development,10,Lead,Class1,Sales and Business
+271,Backend Developer - SS24,Blu Smart,50,"Function: Software Engineering → Backend Development, Other Software Development","Java
+Spring
+Redis
+Microservices
+MongoDB",5,Senior,Class4,Software Engineering
+272,Backend Developer - SS24,Blu Smart,50,"Function: Software Engineering → Backend Development, Other Software Development","Java
+Spring
+Microservices
+Redis
+MongoDB",6,Senior,Class4,Software Engineering
+273,Java Developer,Enlighted,500,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Java
+AWS
+Spring
+SQL
+Hibernate",7,Senior,Class3,Software Engineering
+274,Senior Software Engineer,Lendingkart,500,Function: Software Engineering → Backend Development,"Java
+Spring Boot
+LLD
+Data Structures",7,Senior,Class3,Software Engineering
+275,Data Engineer,Prophecy,50,Function: Software Engineering → Big Data / DWH / ETL,"Spark
+Scala
+Python
+Big Data
+Architecture",11,Lead,Class4,Software Engineering
+276,Senior React.js Developer,Recrosoft Technologies,500,Function: Software Engineering → Frontend Development,"React.js
+Redux
+JavaScript
+HTML
+TypeScript",8,Lead,Class3,Software Engineering
+277,Senior QA Engineer,Redica Systems,200,Function: Software Engineering → QA / SDET,"Automation Testing
+Python
+Database Testing",8,Lead,Class2,Software Engineering
+278,Sr. Technical Content Writer / Information Architect,Sequoia Consulting Group,500,Function: Marketing → Content Writing,"Content Marketing
+Content Writing
+English Content",11,Lead,Class3,Marketing
+279,Lead - Data Science,V-Mart Retail,1000,Function: Data Science and Analysis → Data Science / Machine Learning,"Machine Learning
+Python
+R",6,Senior,Class1,Data Science and Analysis
+286,Lead. Software Engineer,Khoros,1000,Function: Software Engineering → Backend Development,"Java
+Spring",12,Lead,Class1,Software Engineering
+287,Sr. Manager - Digital Marketing,Nected,10,Function: Marketing → Online Marketing,"Digital Marketing
+Social Media Marketing
+Content Writing",11,Lead,Class4,Marketing
+288,QA Engineer - Automation,VdoCipher Media Solutions,10,Function: Software Engineering → QA / SDET,"Automation Testing
+API Testing
+JavaScript
+TypeScript
+Swagger",5,Senior,Class4,Software Engineering
+289,AUTOSAR Integration Engineer,Wipro,1000,"Function: Software Engineering → Embedded / Kernel Development, QA / SDET","AUTOSAR
+Embedded C",8,Lead,Class1,Software Engineering
+290,Azure DevOps SE 2,7-Eleven,1000,Function: IT Operations and Support → DevOps / Cloud,"Python
+CI - CD
+Azure
+Docker
+Kubernetes",7,Senior,Class1,IT Operations and Support
+291,Admission Counsellor,Aasaanjobs,500,"Function: Sales and Business → Customer Service, General Management / Strategy, Sales / Business Development","Customer Relationship
+Customer Interaction
+Customer Service
+Telecalling
+Key Account Management",3,Junior,Class3,Sales and Business
+292,Business Development Manager,Aasaanjobs,500,"Function: Sales and Business → General Management / Strategy, Operations Management, Sales / Business Development","Business Development
+Operations Management
+Process Improvement
+Sales
+Direct Sales",6,Senior,Class3,Sales and Business
+293,Associate Software Engineer,Cedcoss Technologies,200,Function: Software Engineering → Backend Development,"C
+C++
+Java
+Node.js
+PHP
+Python
+Laravel
+Magento",2,Fresher,Class2,Software Engineering
+294,Sales & Partner Engagement,Cloudologic,200,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Direct Sales
+Sales",2,Fresher,Class2,Sales and Business
+295,Junior DevOps Engineer,CreditVidya,200,Function: IT Operations and Support → DevOps / Cloud,"AWS
+DevOps
+Docker
+Kubernetes
+Jenkins",6,Senior,Class2,IT Operations and Support
+296,Sr. Fullstack Developer,DAZN,1000,Function: Software Engineering → Full-Stack Development,"React.js
+Node.js
+AWS
+HTML
+Git",8,Lead,Class1,Software Engineering
+297,Head of City,Onsurity,50,Function: Sales and Business → Sales / Business Development,"Mergers and Acquisitions
+Sales
+Business Development
+Corporate Sales
+Direct Sales",13,Lead,Class4,Sales and Business
+298,Fullstack Engineer,SigTech,200,Function: Software Engineering → Full-Stack Development,"Python
+React.js
+Node.js
+Django
+AWS",6,Senior,Class2,Software Engineering
+299,Test Engineer - HIL,Wipro,1000,Function: Software Engineering → QA / SDET,"HIL Testing
+Python
+CI - CD",9,Lead,Class1,Software Engineering
+300,Azure DevOps SE 2,7-Eleven,1000,Function: IT Operations and Support → DevOps / Cloud,"Python
+CI - CD
+Azure
+Docker
+Kubernetes",7,Senior,Class1,IT Operations and Support
+301,Elite Manager,Aasaanjobs,500,"Function: Sales and Business → General Management / Strategy, Operations Management, Sales / Business Development","Leadership Recruitment
+Business Development
+Process Improvement
+Employee Induction
+Operations Management",8,Lead,Class3,Sales and Business
+302,Head of Teacher,Aasaanjobs,500,Function: Operations → Operations Management,"Teaching
+Creative Direction",6,Senior,Class3,Operations
+304,Staff Engineer,Devtron Labs,50,Function: Software Engineering → Backend Development,"Java
+Golang
+Data Structures
+Algorithms
+Distributed Systems",12,Lead,Class4,Software Engineering
+305,Legal Executive,Lendingkart,500,Function: Operations → Accounting / Finance,"Legal Compliance
+Legal Drafting
+Payment Collection
+Law",0,Fresher,Class3,Operations
+306,Software Engineer / Senior Software Engineer,Storable,1000,Function: Software Engineering → Backend Development,Ruby on Rails,8,Lead,Class1,Software Engineering
+307,QA Engineer,VIDA Digital Identity,50,Function: Software Engineering → QA / SDET,"Java
+Selenium
+Appium
+SQL
+Spring Boot",6,Senior,Class4,Software Engineering
+308,QA Engineer,VIDA Digital Identity,50,Function: Software Engineering → QA / SDET,"Selenium
+Mobile Apps Testing
+Java
+Appium
+Automation Testing",6,Senior,Class4,Software Engineering
+309,Software Engineer,Wipro,1000,Function: Software Engineering → Backend Development,"Java
+MongoDB
+Kafka
+Microservices
+Spring",10,Lead,Class1,Software Engineering
+318,Software Engineer,upGrad,200,Function: Software Engineering → Frontend Development,"React.js
+JavaScript
+CSS
+HTML",3,Junior,Class2,Software Engineering
+319,Procurement Executive,Zydus Group,1000,Function: Operations → Operations Management,"Supply Chain Management
+Procurement
+Indirect Procurement",14,Lead,Class1,Operations
+320,Apigee Engineer,Altimetrik,1000,Function: Software Engineering → Backend Development,"Apigee
+Swagger
+REST Assured
+Microservices",7,Senior,Class1,Software Engineering
+321,Digital Content Associate,Amazon Entertainment,1000,Function: Sales and Business → Customer Service,Customer Relationship,2,Fresher,Class1,Sales and Business
+322,Product Designer,Cars24,1000,Function: Design and Creative → Other Design,"Industrial Design
+Instructional Design",7,Senior,Class1,Design and Creative
+323,DevOps Engineer,GoKiwi,50,Function: IT Operations and Support → DevOps / Cloud,"Kubernetes
+Helm
+Docker
+Linux
+AWS",5,Senior,Class4,IT Operations and Support
+324,Software Engineer - Angles,insightsoftware,1000,Function: Software Engineering → Full-Stack Development,".NET
+JavaScript
+ASP.NET
+C#
+jQuery
+React.js",5,Senior,Class1,Software Engineering
+325,Elite Manager,Max Life Insurance,1000,Function: Sales and Business → Sales / Business Development,"Sales Operations
+Recruitment
+Business Development
+Operations Management
+Employee Engagement",5,Senior,Class1,Sales and Business
+326,Data Engineer,PearlArc Systems,50,Function: Software Engineering → Big Data / DWH / ETL,"Azure
+Databricks
+Power BI
+ETL
+Azure Data Factory",8,Lead,Class4,Software Engineering
+327,Software Developer - Core,PhonePe,1000,Function: Software Engineering → Backend Development,"Java
+Algorithms
+Data Structures
+Elasticsearch
+Microservices",11,Lead,Class1,Software Engineering
+328,Staff SE (Frontend Lead),Redica Systems,200,Function: Software Engineering → Frontend Development,"JavaScript
+React.js
+HTML
+CSS",13,Lead,Class2,Software Engineering
+329,Network Security,Tata Consultancy Services,1000,"Function: IT Operations and Support → IT Management / IT Support, Network Administration","Palo Alto
+Network Administration
+Cisco ASA
+VPN
+Routing",6,Senior,Class1,IT Operations and Support
+331,Lead Meanstack Developer,EPAM Systems,1000,Function: Software Engineering → Full-Stack Development,"JavaScript
+Angular
+Node.js",11,Lead,Class1,Software Engineering
+332,Senior Software Engineer - Front End,Incedo,1000,Function: Software Engineering → Frontend Development,"React.js
+Node.js
+JavaScript
+Redux
+CI - CD",5,Senior,Class1,Software Engineering
+333,Senior Software Engineer - Full Stack,Incedo,1000,Function: Software Engineering → Backend Development,"Java
+React.js
+SQL
+NoSQL
+CI - CD",6,Senior,Class1,Software Engineering
+334,QA Engineer,LogiNext,200,Function: Software Engineering → QA / SDET,"Selenium
+Java
+Automation Testing
+Mobile Apps Testing
+Performance Testing",2,Fresher,Class2,Software Engineering
+335,SDE 4,Mystifly,500,Function: Software Engineering → Backend Development,"Java
+Distributed Systems
+Python
+.NET
+Architecture",10,Lead,Class3,Software Engineering
+336,Python Developer (Junior),Nuage BizTech,200,Function: Software Engineering → Backend Development,"Python
+Flask
+Django",4,Junior,Class2,Software Engineering
+337,Staff SE (Frontend Lead),Redica Systems,200,Function: Software Engineering → Frontend Development,"JavaScript
+React.js
+HTML
+CSS",13,Lead,Class2,Software Engineering
+338,Frontend Developer,Wokelo AI,10,"Function: Software Engineering → Frontend Development, Full-Stack Development, Other Software Development","React.js
+Redux
+JavaScript
+Angular
+TypeScript",5,Senior,Class4,Software Engineering
+339,Technical Project Manager,Zinier,500,"Function: IT Operations and Support → Functional / Technical Consulting, Other Software Development, Project Management","Project Management
+PMP
+Technical Consulting
+Customer Service
+CRM",15,Lead,Class3,IT Operations and Support
+340,Business Analyst,Nuage BizTech,200,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"Business Analysis
+SQL
+Data Analysis
+Microsoft Excel
+Tableau",3,Junior,Class2,Data Science and Analysis
+341,Python Developer,Nuage BizTech,200,Function: Software Engineering → Backend Development,"Python
+Flask
+Django",10,Lead,Class2,Software Engineering
+342,Python Developer (Junior),Nuage BizTech,200,Function: Software Engineering → Backend Development,"Python
+Flask
+Django",4,Junior,Class2,Software Engineering
+343,Sr. Sitecore Consultant,Nuage BizTech,200,"Function: Software Engineering → Frontend Development, Full-Stack Development, Other Software Development","Sitecore
+.NET",9,Lead,Class2,Software Engineering
+344,Technical Project Manager,Nuage BizTech,200,Function: Technical Management → Project Management,"Project Management
+Agile
+Python
+Node.js
+Angular",8,Lead,Class2,Technical Management
+345,Business Analyst,World Compliance Technologies,200,Function: Data Science and Analysis → Data Analysis / Business Intelligence,"Business Analysis
+SQL
+Business Intelligence
+Data Analysis
+Microsoft Excel",13,Lead,Class2,Data Science and Analysis
+346,SE - Full Stack,World Compliance Technologies,200,Function: Software Engineering → Full-Stack Development,"Java
+JavaScript
+Spring
+Angular
+React.js",5,Senior,Class2,Software Engineering
+347,Technical Architect,World Compliance Technologies,200,"Function: Software Engineering → Backend Development, Solution Architecture / Presales","Java
+Architecture
+Spring
+Angular
+Microservices",15,Lead,Class2,Software Engineering
+348,Technical Support Analyst,World Compliance Technologies,200,Function: IT Operations and Support → Technical / Production Support,"Technical Support
+Customer Service
+ITIL
+SQL
+Oracle Database",4,Junior,Class2,IT Operations and Support
+349,UI - React.js Developer,World Compliance Technologies,200,Function: Software Engineering → Frontend Development,"JavaScript
+React.js
+Tailwind CSS
+Bootstrap",7,Senior,Class2,Software Engineering
+350,Social Media - Community Manager,Dibber,1000,Function: Marketing → Online Marketing,"Social Media Marketing
+Community Management
+Brand Management
+SEO",11,Lead,Class1,Marketing
+351,DevOps Architect,Embibe,1000,Function: IT Operations and Support → DevOps / Cloud,"CI - CD
+Linux
+Ansible
+AWS
+Azure
+Docker
+Google Cloud
+Jenkins
+Kubernetes
+New Relic",12,Lead,Class1,IT Operations and Support
+352,Sr. Frontend Developer,Goldcast,10,Function: Software Engineering → Frontend Development,"JavaScript
+React.js
+Vue.js
+HTML
+CSS",7,Senior,Class4,Software Engineering
+353,Staff EM,Goldcast,10,Function: Software Engineering → Backend Development,"Python
+Distributed Systems
+Java
+Engineering Management
+Golang",15,Lead,Class4,Software Engineering
+354,Staff Engineer / EM,Goldcast,10,Function: Software Engineering → Backend Development,"Python
+Golang
+Distributed Systems
+Java
+Node.js",12,Lead,Class4,Software Engineering
+355,Staff Frontend Developer,Goldcast,10,Function: Software Engineering → Frontend Development,"JavaScript
+React.js
+Vue.js
+CSS
+HTML",13,Lead,Class4,Software Engineering
+356,Lead DevOps Engineer,SenecaGlobal,500,Function: IT Operations and Support → DevOps / Cloud,"CI - CD
+Linux
+Ansible
+AWS
+Docker
+Jenkins
+Kubernetes",6,Senior,Class3,IT Operations and Support
+357,Sales Manager,Sprouts.ai,10,"Function: Sales and Business → General Management / Strategy, Sales / Business Development, Talent Acquisition","Sales
+Recruitment
+IT Recruitment
+International Sales
+Business Development",15,Lead,Class4,Sales and Business
+358,SSE - Data Platform,Sundial,50,"Function: Software Engineering → Backend Development, Big Data / DWH / ETL","PySpark
+Spark
+Azure Data Lake
+Data Streaming
+Python",10,Lead,Class4,Software Engineering
+359,SSE - Full Stack,World Compliance Technologies,200,Function: Software Engineering → Full-Stack Development,"Java
+JavaScript
+Spring
+React.js
+Angular",10,Lead,Class2,Software Engineering
+360,Lead Fullstack Developer,7-Eleven,1000,Function: Software Engineering → Full-Stack Development,"Java
+JavaScript
+React.js
+Angular",13,Lead,Class1,Software Engineering
+361,Dot .NET Developer,Aasaanjobs,500,Function: IT Operations and Support → DevOps / Cloud,"DevOps
+.NET
+JavaScript",8,Lead,Class3,IT Operations and Support
+362,Graphic Designer - Creative Design Lead,Dibber,1000,"Function: Design and Creative → Graphic Design / Animation, Other Design, Photography / Videography","Graphic Design
+Video Editing
+3D Animation
+Videography
+Illustrator",12,Lead,Class1,Design and Creative
+363,Data Engineer,Prophecy,50,Function: Data Science and Analysis → Data Science / Machine Learning,"Python
+ETL
+Big Data
+Hadoop
+Spark",12,Lead,Class4,Data Science and Analysis
+364,Data Engineer,Prophecy,50,Function: Software Engineering → Big Data / DWH / ETL,"PySpark
+Scala
+Big Data
+ETL",9,Lead,Class4,Software Engineering
+365,Senior Software Engineer 2,Redica Systems,200,Function: Software Engineering → Backend Development,"Python
+Django",9,Lead,Class2,Software Engineering
+366,Senior Software Engineer I,Redica Systems,200,Function: Software Engineering → Backend Development,"Python
+Django",5,Senior,Class2,Software Engineering
+367,Staff Software Engineer (Lead Frontend),Redica Systems,200,Function: Software Engineering → Frontend Development,"React.js
+JavaScript",12,Lead,Class2,Software Engineering
+369,Senior IT Security Specialist,Swimlane,500,Function: IT Operations and Support → IT Security,"Network Security
+Information Security
+macOS
+Ubuntu
+Shell Scripting",12,Lead,Class3,IT Operations and Support
+370,RFP Writer,12th Wonder,200,Function: Marketing → Content Writing,"Content Writing
+English Content",5,Senior,Class2,Marketing
+371,Admission Counsellor,Aasaanjobs,500,Function: Marketing → PR / Communications,"Interpretation
+Public Relations
+Corporate Communication",3,Junior,Class3,Marketing
+372,Business Development Manager,Aasaanjobs,500,Function: Sales and Business → Sales / Business Development,Digital Marketing,6,Senior,Class3,Sales and Business
+373,Full Stack Developer - Java,Aasaanjobs,500,Function: Software Engineering → Full-Stack Development,"JavaScript
+Python
+Java
+HTML
+CSS",9,Lead,Class3,Software Engineering
+374,Full Stack Developer - Java,Aasaanjobs,500,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Java
+Angular
+React.js
+SQL
+RDBMS",9,Lead,Class3,Software Engineering
+375,Software Engineer (Java) - Backend Developer,Bluebik Global,10,Function: Software Engineering → Backend Development,".NET
+Golang
+Java
+Node.js
+Ruby
+Scala
+Hibernate
+J2EE
+Spring",5,Senior,Class4,Software Engineering
+376,Software Engineer - Backend Developer,Bluebik Global,10,Function: Software Engineering → Backend Development,".NET
+Big Data
+Golang
+Java
+Node.js
+Ruby
+Express.js
+Hibernate
+J2EE
+Spring
+Struts",6,Senior,Class4,Software Engineering
+377,Engineering Manager / Senior Engineering Manager,Essenvia,10,"Function: Software Engineering → Backend Development, Full-Stack Development","Python
+JavaScript
+CI - CD
+RDBMS",10,Lead,Class4,Software Engineering
+378,.NET Developer,iVoyant,200,"Function: Software Engineering → Backend Development, Full-Stack Development",".NET
+Azure Cosmos DB
+Docker",8,Lead,Class2,Software Engineering
+379,Technical Architect,Mareana,200,"Function: Software Engineering → Backend Development, Engineering Management, Full-Stack Development","Python
+Spark SQL
+AWS
+Azure",15,Lead,Class2,Software Engineering
+380,Client Relationship Executive,Cambay Consulting,50,Function: IT Operations and Support → IT Management / IT Support,Networking,4,Junior,Class4,IT Operations and Support
+381,Senior Technical Architect,CreditVidya,200,Function: Software Engineering → Backend Development,"Java
+AWS
+Python
+C++",14,Lead,Class2,Software Engineering
+382,Full Stack Developer - Java,EY,1000,Function: Software Engineering → Backend Development,"Angular
+Java
+.NET
+AWS
+Python",8,Lead,Class1,Software Engineering
+385,Linux Admin,ProdEx Technologies,200,Function: IT Operations and Support → IT Security,Information Security,5,Senior,Class2,IT Operations and Support
+386,Machine Learning Engineer,Tekion,200,Function: Data Science and Analysis → Data Science / Machine Learning,"Machine Learning
+Python
+AWS
+Data Modelling
+SQL",6,Senior,Class2,Data Science and Analysis
+389,Sales & Partnerships Executive,YourStory Media,200,"Function: Sales and Business → General Management / Strategy, Operations Management, Sales / Business Development","Sales Operations
+Customer Relationship
+Key Account Management
+Operations Management
+Business Development",5,Senior,Class2,Sales and Business
+390,Elite Manager,Aasaanjobs,500,Function: Sales and Business → Sales / Business Development,"Sales
+Business Development",6,Senior,Class3,Sales and Business
+391,Big Data Engineer,EY,1000,Function: Software Engineering → Backend Development,"PySpark
+AWS
+Hadoop
+Kafka
+SQL",10,Lead,Class1,Software Engineering
+392,Full Stack Developer III [T500 - 7685,FedEx,1000,Function: Software Engineering → Full-Stack Development,"Java
+Angular",9,Lead,Class1,Software Engineering
+393,Xceptor Developer,Infosys,1000,Function: IT Operations and Support → Functional / Technical Consulting,"Xceptor
+Robotic Process Automation",7,Senior,Class1,IT Operations and Support
+394,PHP Developer,Sumedha Softech,50,Function: Software Engineering → Backend Development,"PHP
+CodeIgniter
+Laravel",3,Junior,Class4,Software Engineering
+395,Software Engineer - Dot .NET,Symphony Technology Group,50,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","ASP.NET
+Agile
+SQL
+.NET
+WCS",6,Senior,Class4,Software Engineering
+396,Business Development Executive,Think Future Technologies,200,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Direct Sales
+International Sales
+Sales
+Telecalling",6,Senior,Class2,Sales and Business
+397,Sr. Software Engineer - Frontend,Uber,1000,Function: Software Engineering → Frontend Development,"HTML
+JavaScript
+Angular
+React.js
+Vue.js",10,Lead,Class1,Software Engineering
+398,SDET,Walmart Global Tech India,1000,Function: Software Engineering → QA / SDET,"Selenium
+Java
+REST Assured
+Automation Testing
+SDET",9,Lead,Class1,Software Engineering
+399,Python Developer,Webority Technologies,50,Function: Software Engineering → Full-Stack Development,"Java
+JavaScript
+Python
+Ruby
+Django
+Ember.js
+Node.js
+React.js",6,Senior,Class4,Software Engineering
+403,Sr. webMethods Developer,Moback,200,"Function: Software Engineering → Backend Development, Other Software Development","webMethods
+SOAP
+JMS
+CAF
+Data Integration",8,Lead,Class2,Software Engineering
+404,Senior Analyst - Surveillance MIS [T500 - 7536,Nab,1000,Function: IT Operations and Support → Systems Administration,Mainframes,9,Lead,Class1,IT Operations and Support
+405,Full Stack Mern Developer,P2E Pro,200,Function: Software Engineering → Full-Stack Development,"Node.js
+React.js
+MongoDB
+AWS
+Blockchain",5,Senior,Class2,Software Engineering
+406,Frontend Developer,Recrosoft Technologies,500,"Function: Software Engineering → Frontend Development, Full-Stack Development","React.js
+JavaScript
+TypeScript",8,Lead,Class3,Software Engineering
+407,QA Automation,Redica Systems,200,Function: Software Engineering → QA / SDET,"Selenium
+Automation Testing
+SDET
+Performance Testing
+Java",8,Lead,Class2,Software Engineering
+408,Engineering Lead,Wokelo AI,10,"Function: Software Engineering → Backend Development, Engineering Management, Full-Stack Development","Engineering Management
+Data Structures
+Payment Solutions
+Python",10,Lead,Class4,Software Engineering
+409,Solution Architect,XSEED Education,500,Function: IT Operations and Support → Solution Architecture / Presales,"Cloud Computing
+Java
+Solution Architecture
+AWS
+Azure
+Google Cloud",6,Senior,Class3,IT Operations and Support
+410,Business Development Manager,Blowhorn,500,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Direct Sales
+Sales",6,Senior,Class3,Sales and Business
+411,Business Development Manager,Blowhorn,500,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Sales",7,Senior,Class3,Sales and Business
+412,React Native Developer,Deqode,500,Function: Software Engineering → Mobile Development,"Android
+iOS",4,Junior,Class3,Software Engineering
+413,SSE 1,Lendingkart,500,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Java
+Microservices
+Multithreading
+Spring Boot
+Kafka",9,Lead,Class3,Software Engineering
+414,Software Development Engineer,Listed,10,"Function: Software Engineering → Backend Development, Full-Stack Development","Java
+Data Structures
+Algorithms
+Spring
+MongoDB",5,Senior,Class4,Software Engineering
+415,Ad Operations Analyst,Lokal,200,Function: Data Science and Analysis → Data Analysis / Business Intelligence,SQL,2,Fresher,Class2,Data Science and Analysis
+416,SSE - II / Lead Software Engineer,MakeMyTrip,1000,Function: Software Engineering → Frontend Development,"CSS
+HTML
+JavaScript
+Angular
+jQuery
+React.js
+Vue.js",7,Senior,Class1,Software Engineering
+418,IT Recruitment,Primathon,50,Function: Human Resources → Talent Acquisition,"IT Recruitment
+Recruitment",4,Junior,Class4,Human Resources
+419,SEO,Travelounce,200,Function: Marketing → SEO / SEM,"SEM
+SEO",5,Senior,Class2,Marketing
+420,Admission Counsellor,Aasaanjobs,500,"Function: IT Operations and Support → Functional / Technical Consulting, General Management / Strategy, Operations Management","Process Improvement
+Quality Control
+Logistics Management",3,Junior,Class3,IT Operations and Support
+421,Digital Marketing Expert,Aasaanjobs,500,Function: Marketing → Online Marketing,"Digital Marketing
+Content Marketing
+Social Media Marketing
+SEO
+Creative Direction",5,Senior,Class3,Marketing
+422,Social Media Consultant,Aasaanjobs,500,Function: Marketing → Online Marketing,"SEO
+Social Media Marketing
+Digital Marketing
+Content Marketing
+Marketing",5,Senior,Class3,Marketing
+423,ServiceNow Developer,Capgemini,1000,Function: Software Engineering → Other Software Development,"ServiceNow
+Asset Management
+ITSM
+Vulnerability Assessment
+Operations Management",9,Lead,Class1,Software Engineering
+424,ServiceNow Developer,Capgemini,1000,Function: Software Engineering → Other Software Development,"ServiceNow
+ITSM
+Asset Management
+Operations Management
+Vulnerability Assessment",9,Lead,Class1,Software Engineering
+425,Senior Software Engineer - Infrastructure,insightsoftware,1000,Function: Software Engineering → Backend Development,".NET
+ASP.NET
+C#",8,Lead,Class1,Software Engineering
+426,SSE 1,Lendingkart,500,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Java
+Microservices
+Multithreading
+Spring Boot
+Kafka",9,Lead,Class3,Software Engineering
+427,Sr. Content Writer,NxtWave,1000,Function: Marketing → Content Writing,"Content Writing
+Copy Writing
+SEO
+Technical Writing",4,Junior,Class1,Marketing
+428,Backend Developer,Smitch,200,Function: Software Engineering → Backend Development,"Node.js
+SQL
+AWS",7,Senior,Class2,Software Engineering
+429,Full Stack Developer - React,Verizon Communications,1000,Function: Software Engineering → Full-Stack Development,"React.js
+Microservices
+Spring Boot
+Java
+Node.js",6,Senior,Class1,Software Engineering
+430,Java Developer,Alchemy Techsol India,1000,Function: Software Engineering → Full-Stack Development,"Java
+Spring Boot
+React.js
+SQL
+HTML",11,Lead,Class1,Software Engineering
+431,Digital Content Associate,Amazon Entertainment,1000,Function: Marketing → Content Writing,"Content Writing
+English Content",2,Fresher,Class1,Marketing
+432,QA Test Engineer,Awign,500,Function: Software Engineering → QA / SDET,"Automation Testing
+Cucumber
+Selenium",6,Senior,Class3,Software Engineering
+433,Full Stack Developer,DAZN,1000,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Node.js
+React.js
+Express.js
+AWS
+JavaScript",9,Lead,Class1,Software Engineering
+434,Senior UX Designer,Head Digital Works,500,"Function: Design and Creative → Other Design, UX / Visual Design","Game Design
+UX Design
+Adobe After Effects
+Illustrator
+Photoshop",8,Lead,Class3,Design and Creative
+435,UX Designer,Head Digital Works,500,"Function: Design and Creative → Other Design, UX / Visual Design","Game Design
+Photoshop
+UX Design
+Adobe After Effects
+Illustrator",15,Lead,Class3,Design and Creative
+436,HR Operations,Leap Finance,200,Function: Human Resources → HR Generalist,"Compensation Management
+Employee Benefits",9,Lead,Class2,Human Resources
+437,Back End Developer - Java,Rakuten,1000,Function: Software Engineering → Backend Development,"Java
+Spring",5,Senior,Class1,Software Engineering
+438,Business Development Specialist,Surekha Technologies,200,Function: Sales and Business → Sales / Business Development,"Business Development
+Direct Sales
+International Sales
+Sales",6,Senior,Class2,Sales and Business
+439,Sales Consultant,Travelounce,200,Function: Sales and Business → Sales / Business Development,"Direct Sales
+International Sales
+Sales",5,Senior,Class2,Sales and Business
+440,Social Media Consultant,Aasaanjobs,500,Function: Marketing → SEO / SEM,"Content Writing
+SEO
+Digital Marketing",2,Fresher,Class3,Marketing
+441,Performance Tester,Alchemy Techsol India,1000,Function: Software Engineering → QA / SDET,"LoadRunner
+Agile
+Performance Center
+Dynatrace
+AppDynamics",11,Lead,Class1,Software Engineering
+442,User Experience Dessigner,Alchemy Techsol India,1000,Function: Software Engineering → Frontend Development,"UX Design
+Unity
+3D Animation
+Agile
+Game Design",12,Lead,Class1,Software Engineering
+443,Fullstack Developer,Axi,200,Function: Software Engineering → Full-Stack Development,".NET
+ASP.NET
+Angular
+C#
+SQL",12,Lead,Class2,Software Engineering
+444,Business Development Executive,Brandsamosa,200,Function: Sales and Business → Sales / Business Development,"Market Research
+Customer Relationship
+Business Development
+Strategic Planning
+Customer Service",2,Fresher,Class2,Sales and Business
+445,Backend Developer,Falcon,50,Function: Software Engineering → Backend Development,"Java
+Hibernate
+Spring",6,Senior,Class4,Software Engineering
+446,Node.js Developer,Intellect Design Arena,1000,Function: Operations → Operations Management,Operations Management,7,Senior,Class1,Operations
+447,Node.js Developer,Recrosoft Technologies,500,Function: Software Engineering → Backend Development,"Node.js
+Express.js
+Data Structures
+JavaScript",9,Lead,Class3,Software Engineering
+448,DevOps Engineer,Shield,200,Function: IT Operations and Support → DevOps / Cloud,"Kubernetes
+AWS
+Ansible
+CI - CD
+Terraform",10,Lead,Class2,IT Operations and Support
+449,Sales Executive - Travel,WMTC,200,Function: Sales and Business → Sales / Business Development,"Business Development
+Corporate Sales
+Direct Sales
+International Sales
+Sales",8,Lead,Class2,Sales and Business
+450,Senior Data Engineer,Accenture,1000,"Function: Software Engineering → Backend Development, Big Data / DWH / ETL","Snowflake
+Database Testing",8,Lead,Class1,Software Engineering
+451,Senior Data Engineer - Snowflake,Accenture,1000,"Function: Software Engineering → Backend Development, Big Data / DWH / ETL, Full-Stack Development","Snowflake
+SQL
+Database Testing",11,Lead,Class1,Software Engineering
+452,Business Development Associate,BYJU'S,1000,Function: Sales and Business → Sales / Business Development,"Business Development
+Sales",1,Fresher,Class1,Sales and Business
+453,Fullstack Developer,DAZN,1000,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Node.js
+React.js
+JavaScript",8,Lead,Class1,Software Engineering
+454,Principle - Site Reliability Engineer,Digit88 Technologies,200,"Function: IT Operations and Support → DevOps / Cloud, Other Software Development","Kubernetes
+Docker
+Amazon DynamoDB
+Cassandra
+Ansible",13,Lead,Class2,IT Operations and Support
+455,Account Executive,Emitrr,50,Function: Sales and Business → Sales / Business Development,"Business Development
+EMEA
+International Sales
+SMB",7,Senior,Class4,Sales and Business
+457,Operation Coordinator,Growthify Media,50,Function: Operations → Operations Management,Operations Management,0,Fresher,Class4,Operations
+458,SRE / Site Reliability Engineer,PhonePe,1000,Function: IT Operations and Support → Technical / Production Support,"Linux
+OpenShift
+System Administration
+OpenStack
+Reliability Engineering",9,Lead,Class1,IT Operations and Support
+459,Software Engineer,Wipro,1000,"Function: Software Engineering → Backend Development, Full-Stack Development","Java
+Angular
+Spring Boot
+Microservices
+JavaScript",10,Lead,Class1,Software Engineering
+460,Retail HR,Aditya Birla Fashion and Retail,1000,Function: Human Resources → HR Generalist,"Employee Engagement
+Talent Management
+Employee Benefits
+Compensation Management
+Performance Management",12,Lead,Class1,Human Resources
+461,Computer Vision Engineer,Bipp,50,Function: Data Science and Analysis → Data Science / Machine Learning,"Keras
+Computer Vision
+PyTorch
+OpenCV
+Machine Learning",6,Senior,Class4,Data Science and Analysis
+462,Site Reliability Engineer,CRED,500,Function: IT Operations and Support → DevOps / Cloud,"CI - CD
+AWS
+Docker
+Kubernetes
+New Relic
+OpenStack",7,Senior,Class3,IT Operations and Support
+463,Account Executive,Emitrr,50,Function: Sales and Business → Sales / Business Development,"Business Development
+EMEA
+International Sales
+SMB",7,Senior,Class4,Sales and Business
+464,Senior Manager - HR,Epsilon,1000,Function: Sales and Business → General Management / Strategy,"Employee Engagement
+Corporate Social Responsibility (CSR)
+Wellness Coaching
+Talent Management",14,Lead,Class1,Sales and Business
+465,Senior Manager Engagement,Epsilon,1000,Function: Sales and Business → General Management / Strategy,"Corporate Social Responsibility (CSR)
+Employee Engagement
+Wellness Coaching
+Program Management",15,Lead,Class1,Sales and Business
+466,Scrum Master II (T500 - 7573),FedEx,1000,Function: Technical Management → Project Management,"Scrum
+Agile",6,Senior,Class1,Technical Management
+467,Principal Engineer,Mareana,200,"Function: Software Engineering → Backend Development, Engineering Management, Full-Stack Development","Python
+AWS
+Azure
+Spark SQL",12,Lead,Class2,Software Engineering
+468,Senior Full - Stack Engineer,Syren Technologies,200,Function: Software Engineering → Full-Stack Development,".NET
+JavaScript
+ASP.NET
+C#
+React.js",6,Senior,Class2,Software Engineering
+469,Staff Engineer,Uber,1000,Function: Software Engineering → Backend Development,"C
+C++
+Golang
+Java
+Node.js
+Python",14,Lead,Class1,Software Engineering
+470,SEO Executive,Alpha Infolab,200,Function: Marketing → SEO / SEM,"Google Ads
+SEO",4,Junior,Class2,Marketing
+471,Wordpress Developer,Asentech,200,"Function: Software Engineering → Backend Development, Full-Stack Development","Wordpress
+Git
+Jira
+PHP
+jQuery",5,Senior,Class2,Software Engineering
+472,Sr. AWS Data Engineer,Exponentia.ai,50,Function: Software Engineering → Big Data / DWH / ETL,"Data Analysis
+Data Warehousing
+ETL
+Amazon Redshift
+AWS Glue
+Informatica
+SQL",6,Senior,Class4,Software Engineering
+473,Customer Support,Flipkart,1000,Function: Sales and Business → Customer Service,"Customer Service
+Customer Relationship
+BPO Operations",1,Fresher,Class1,Sales and Business
+475,HRBP,Kasplo,200,"Function: Human Resources → HR Generalist, Talent Acquisition","HR Policies
+HR Operations
+Grievance Management
+Recruitment",6,Senior,Class2,Human Resources
+476,Machine Learning Engineer,Money View,500,Function: Data Science and Analysis → Data Science / Machine Learning,"Big Data
+TensorFlow
+Scikit-learn
+NLP
+Amazon SageMaker",9,Lead,Class3,Data Science and Analysis
+477,Full Stack Developer (Mern Stack),MSD Technologies,50,"Function: Software Engineering → Backend Development, Frontend Development, Full-Stack Development","Node.js
+JavaScript
+AWS
+TypeScript
+React.js",10,Lead,Class4,Software Engineering
+478,Software Engineer,PricewaterhouseCoopers (PwC),1000,Function: Software Engineering → Backend Development,"Golang
+Kafka",6,Senior,Class1,Software Engineering
+479,Probiotic - General Manager,Starhi Herbs,500,Function: Technical Management → Project Management,"Microbiological Analysis
+Vendor Management
+Food Microbiology
+Chemical Research
+NPD",12,Lead,Class3,Technical Management
+480,iOS Developer (SE2 / SSE),Allen Career Institute,1000,Function: Software Engineering → Mobile Development,"iOS
+Swift
+Objective-C
+Xcode",7,Senior,Class1,Software Engineering
+490,Regional Manager,Anudip Foundation,500,"Function: IT Operations and Support → Functional / Technical Consulting, Operations Management, Talent Acquisition","Operations Management
+Recruitment
+Learning and Development
+Brand Management
+Corporate Strategy",8,Lead,Class3,IT Operations and Support
+491,Wordpress Developer,Engagedly Inc,200,Function: Software Engineering → Frontend Development,"CSS
+HTML
+JavaScript
+jQuery",5,Senior,Class2,Software Engineering
+493,Product Manager - Merchant Onboarding,Fincobox,50,Function: Technical Management → Product Management,"Product Management
+Merchant Banking",5,Senior,Class4,Technical Management
+494,MLOps Engineer,GlobalLogic,1000,"Function: Software Engineering → Backend Development, Data Science / Machine Learning","Machine Learning
+DevOps
+Google Cloud
+CI - CD
+Linux",11,Lead,Class1,Software Engineering
+495,Senior Software Engineer - Retail Apps,Hy-Vee,1000,Function: Software Engineering → Mobile Development,"Android
+Kotlin
+Java
+SQL
+Git",8,Lead,Class1,Software Engineering
+496,Technical Lead,JindalX,1000,"Function: Technical Management → Engineering Management, Full-Stack Development","Engineering Management
+JavaScript
+.NET
+React.js",17,Specialist,Class1,Technical Management
+497,Manual Testing,Patch Infotech,200,Function: Software Engineering → QA / SDET,"Manual Testing
+SDET
+Java",7,Senior,Class2,Software Engineering
+498,Jamf Administrator,Team Computers,1000,Function: Software Engineering → Other Software Development,"Jamf
+Salesforce
+macOS",5,Senior,Class1,Software Engineering
+499,Product Analyst,WeRize,200,Function: Technical Management → Product Management,"SQL
+Microsoft Excel
+Python",5,Senior,Class2,Technical Management

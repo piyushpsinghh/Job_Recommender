@@ -1,0 +1,300 @@
+﻿Job_ID,Company_ID,Location,Designation,Details ID
+Job_1,Comp_0,"Bangalore, Hyderabad, Mumbai",AEM Developer  ,Det_1
+Job_2,Comp_1,Work From Home,Staff - Backend Developer ,Det_2
+Job_3,Comp_0,"Bangalore, Hyderabad, Mumbai",Informatica IICS Developer  ,Det_3
+Job_4,Comp_2,Bangalore,Salesforce Architect ,Det_4
+Job_5,Comp_3,"Delhi, Lucknow",Territory Sales Manager  ,Det_5
+Job_6,Comp_4,Hyderabad,Data Scientist ,Det_6
+Job_7,Comp_5,Bangalore,Senior Cloud Engineer ,Det_7
+Job_8,Comp_6,Noida,Senior Node.js Developer ,Det_8
+Job_9,Comp_7,Bangalore,Business Analyst  ,Det_9
+Job_10,Comp_8,Bangalore,Software Engineer ,Det_10
+Job_11,Comp_9,Hyderabad,Key Account Manager / Senior Key Account Manager  ,Det_11
+Job_12,Comp_10,Work From Home,PPM / Director - Product Management ,Det_12
+Job_13,Comp_11,Bangalore,Data Analyst ,Det_13
+Job_14,Comp_12,Chennai,Java Developer ,Det_14
+Job_15,Comp_13,Delhi,Business Development Manager ,Det_15
+Job_16,Comp_14,Work From Home,"Technical Product Manager, ",Det_16
+Job_17,Comp_15,"Chennai, Coimbatore, Mysuru",Sales Executive - General Trade  ,Det_17
+Job_18,Comp_16,Chennai,Process Simulation Engineer ,Det_18
+Job_19,Comp_17,Bangalore,Data Scientist ,Det_19
+Job_20,Comp_18,Work From Home,Finance Manager  ,Det_20
+Job_21,Comp_19,Delhi,Senior Consultant I - Engineer ,Det_21
+Job_22,Comp_20,"Bangalore, Hyderabad",Senior Software Engineer - Networking  ,Det_22
+Job_23,Comp_21,Mumbai,Business Development Executives  ,Det_23
+Job_24,Comp_22,Bangalore,ENOVIA Developer ,Det_24
+Job_25,Comp_23,Work From Home,Site Reliability Engineer ,Det_25
+Job_26,Comp_24,Gurgaon,React.js Developer ,Det_26
+Job_27,Comp_25,Hyderabad,Software Development Engineer  ,Det_27
+Job_28,Comp_26,"Bangalore, Delhi, Mumbai",Enterprise - Sales Manager  ,Det_28
+Job_29,Comp_27,Sri Lanka,Project Manager - Payment Services ,Det_29
+Job_30,Comp_28,Chennai,Engineering Manager  ,Det_30
+Job_31,Comp_29,Bangalore,SDE - 1 Frontend ,Det_31
+Job_32,Comp_30,Work From Home,TA Specialist  ,Det_32
+Job_33,Comp_31,"Bangalore, Gurgaon",Enterprise Sales Outbound  ,Det_33
+Job_34,Comp_32,Bangalore,SSE / FE ,Det_34
+Job_35,Comp_33,Bangalore,iOS Architect ,Det_35
+Job_36,Comp_34,Bangalore,Senior Product Manager ,Det_36
+Job_37,Comp_35,Chennai,Senior Java Developer ,Det_37
+Job_38,Comp_32,Bangalore,Senior Software Engineer - Frontend ,Det_38
+Job_39,Comp_36,Bangalore,React.js / Angular JS Developer ,Det_39
+Job_40,Comp_37,"Bangalore, Work From Home",Senior Software Engineer ,Det_40
+Job_41,Comp_38,Mumbai,Engineering Manager ,Det_41
+Job_42,Comp_39,Hyderabad,Principal Product Manager ,Det_42
+Job_43,Comp_40,Chennai,UI Developer ,Det_43
+Job_44,Comp_34,Mumbai,Senior Product Manager ,Det_44
+Job_45,Comp_41,Bangalore,Quality Assurance Engineer ,Det_45
+Job_46,Comp_42,Delhi,Chief of Staff ,Det_46
+Job_47,Comp_43,Ahmedabad,QA Engineer ,Det_47
+Job_48,Comp_44,Bangalore,Business Development ,Det_48
+Job_49,Comp_45,Delhi,Social Media Executive ,Det_49
+Job_50,Comp_18,Work From Home,Senior Sales Manager  ,Det_50
+Job_51,Comp_46,Mumbai,PCG Adviser ,Det_51
+Job_52,Comp_47,Noida,Software Development Engineer - Frontend ,Det_52
+Job_53,Comp_48,Chennai,Saas Sales Account Executive ,Det_53
+Job_54,Comp_49,Bangalore,Data Scientist ,Det_54
+Job_55,Comp_20,"Bangalore, Hyderabad",Senior Software Engineer  ,Det_55
+Job_56,Comp_50,Bangalore,.NET Core Developer ,Det_56
+Job_57,Comp_0,"Bangalore, Hyderabad, Mumbai",PL / SQL Developer  ,Det_57
+Job_58,Comp_51,Bangalore,Manager - Accounting  ,Det_58
+Job_59,Comp_52,Mumbai,Product Manager - Digital Lending  ,Det_59
+Job_60,Comp_53,Bangalore,Sales Executive / Senior Sales Executive ,Det_60
+Job_61,Comp_54,Chennai,Senior Backend Engineer ,Det_61
+Job_62,Comp_55,Bangalore,Senior Full Stack Developer - Java ,Det_62
+Job_63,Comp_56,"Bangalore, Work From Home",Front End Engineer ,Det_63
+Job_64,Comp_57,Work From Home,Java Angular Developer ,Det_64
+Job_65,Comp_58,Pune,Hyperion Developer ,Det_65
+Job_66,Comp_59,Bangalore,Principal Software Engineer - UI Architect ,Det_66
+Job_67,Comp_60,Work From Home,SEO Consultant ,Det_67
+Job_68,Comp_26,Bangalore,QA Engineer ,Det_68
+Job_69,Comp_20,"Bangalore, Hyderabad",Senior Software Engineer - Database  ,Det_69
+Job_70,Comp_61,Bangalore,Sales / Senior Sales Associate  ,Det_70
+Job_71,Comp_62,Work From Home,Senior Software Developer - C++ ,Det_71
+Job_72,Comp_63,Mumbai,Career Counsellor ,Det_72
+Job_73,Comp_64,Work From Home,Test Engineer ,Det_73
+Job_74,Comp_65,Bangalore,Staff Engineer - Java Full Stack ,Det_74
+Job_75,Comp_45,Delhi,Creative Graphic Designer ,Det_75
+Job_76,Comp_66,"Bangalore, Work From Home",Backend Engineer ,Det_76
+Job_77,Comp_67,Bangalore,Frontend Developer ,Det_77
+Job_78,Comp_34,Bangalore,Senior Product Manager ,Det_78
+Job_79,Comp_20,"Bangalore, Hyderabad",Product Manager ,Det_79
+Job_80,Comp_68,Bangalore,Staff Software Engineer ,Det_80
+Job_81,Comp_19,Gurgaon,Manager II ,Det_81
+Job_82,Comp_69,Bangalore,Dot .NET Developer ,Det_82
+Job_83,Comp_70,Bangalore,Frontend SDE4 ,Det_83
+Job_84,Comp_60,Work From Home,Wordpress Developer - Lead ,Det_84
+Job_85,Comp_60,Work From Home,Dot .NET Developer ,Det_85
+Job_86,Comp_57,Work From Home,ServiceNow Developer ,Det_86
+Job_87,Comp_71,Work From Home,Cybersecurity Engineer - PKI [T500 - 6924 ,Det_87
+Job_88,Comp_72,Gurgaon,Product Marketing Specialist ,Det_88
+Job_89,Comp_73,Hyderabad,Full Stack Developer - Java ,Det_89
+Job_90,Comp_34,Bangalore,Engineering Manager - Node.js &amp; Python ,Det_90
+Job_91,Comp_74,Coimbatore,Full Stack Developer ,Det_91
+Job_92,Comp_5,Bangalore,Senior Site Reliability Engineer [T500 - 6976 ,Det_92
+Job_93,Comp_69,Bangalore,.NET Developer ,Det_93
+Job_94,Comp_53,Bangalore,Senior Sales Executive / Sales Manager ,Det_94
+Job_95,Comp_75,Gurgaon,Product Manager - II ,Det_95
+Job_96,Comp_33,Bangalore,Security Engineer ,Det_96
+Job_97,Comp_76,Belgaum,Branch Manager ,Det_97
+Job_98,Comp_77,Bangalore,iOS Developer ,Det_98
+Job_99,Comp_78,Delhi,React.js Developer ,Det_99
+Job_100,Comp_79,Bangalore,Full Stack Developer ,Det_100
+Job_101,Comp_80,Noida,Senior Software Engineer ,Det_101
+Job_102,Comp_30,Work From Home,Social Media Marketer  ,Det_102
+Job_103,Comp_81,Chennai,UX Engineer ,Det_103
+Job_104,Comp_34,Bangalore,Senior Product Manager - Credit &amp; Lending ,Det_104
+Job_105,Comp_26,Bangalore,SDE ,Det_105
+Job_106,Comp_82,Bangalore,C / C++ Development  ,Det_106
+Job_107,Comp_83,Gurgaon,Team Lead - Technical ,Det_107
+Job_108,Comp_84,Bangalore,SDE 3 ,Det_108
+Job_109,Comp_85,Bangalore,Machine Learning Engineer ,Det_109
+Job_110,Comp_32,Bangalore,Frontend Developer ,Det_110
+Job_111,Comp_86,Bangalore,Sales Specialist ,Det_111
+Job_112,Comp_20,"Bangalore, Hyderabad",Technical Program Manager ,Det_112
+Job_113,Comp_87,Chennai,Java Fullstack Developer ,Det_113
+Job_114,Comp_88,Bangalore,Data Analyst ,Det_114
+Job_115,Comp_89,Hyderabad,Oracle Fusion HCM Technical / Functional Consultant ,Det_115
+Job_116,Comp_90,Mangalore,System Engineer ,Det_116
+Job_117,Comp_9,Hyderabad,Manager - Institutional / B2B Sales  ,Det_117
+Job_118,Comp_20,"Bangalore, Hyderabad",Product Manager - Cloud ,Det_118
+Job_119,Comp_62,Work From Home,Tech Lead - C++ ,Det_71
+Job_120,Comp_91,Bangalore,Flutter Developer ,Det_119
+Job_121,Comp_82,"Bangalore, Chennai",Software Technologist  ,Det_120
+Job_122,Comp_92,Bangalore,Senior Financial Business Analyst [T500 - 6956 ,Det_121
+Job_123,Comp_93,Bangalore,Fullstack Develoepr - SDE2 ,Det_122
+Job_124,Comp_1,Work From Home,Data Scientist ,Det_123
+Job_125,Comp_12,Chennai,Backend Developer ,Det_124
+Job_126,Comp_94,Work From Home,Product Support Engineer / Customer Support  ,Det_125
+Job_127,Comp_95,Work From Home,UI Developer ,Det_126
+Job_128,Comp_60,Work From Home,SEO Specialist ,Det_127
+Job_129,Comp_96,Surat,Marketing Head ,Det_128
+Job_130,Comp_97,Bangalore,Data Engineer ,Det_129
+Job_131,Comp_90,Bangalore,Full Stack Developer ,Det_130
+Job_132,Comp_64,Work From Home,QA Engineer ,Det_131
+Job_133,Comp_19,Gurgaon,Quality Engineer ,Det_132
+Job_134,Comp_98,Gurgaon,International Voice Process ,Det_133
+Job_135,Comp_71,Work From Home,.NET Developer - BizTalk [T500 - 6844 ,Det_134
+Job_136,Comp_85,Bangalore,Hadoop Administrator ,Det_135
+Job_137,Comp_15,"Anantapur, Hyderabad, Kurnool",Sales Executive - General Trade  ,Det_17
+Job_138,Comp_99,Bangalore,Senior Data Scientist ,Det_136
+Job_139,Comp_100,Noida,Relationship Manager ,Det_137
+Job_140,Comp_20,"Bangalore, Hyderabad",Senior Software Engineer - Big Data  ,Det_138
+Job_141,Comp_10,Work From Home,VP Product - Credit Card ,Det_139
+Job_142,Comp_101,Bangalore,Admission Counsellor ,Det_140
+Job_143,Comp_85,Hyderabad,Full Stack Developer ,Det_141
+Job_144,Comp_102,Bangalore,UI Artist ,Det_142
+Job_145,Comp_0,Bangalore,Automation Testing  ,Det_143
+Job_146,Comp_103,"Bangalore, Gurgaon, Hyderabad",Senior Full - Stack Developer  ,Det_144
+Job_147,Comp_36,Bangalore,Data Engineer ,Det_145
+Job_148,Comp_15,Kochi,Sales Executive - General Trade  ,Det_17
+Job_149,Comp_104,Hyderabad,Data Analyst ,Det_146
+Job_150,Comp_105,"Chandigarh, Gandhinagar, Indore",Territory Sales Manager ,Det_147
+Job_151,Comp_32,Bangalore,Senior Software Engineer ,Det_148
+Job_152,Comp_106,Bangalore,Senior Software Developer ,Det_149
+Job_153,Comp_38,Mumbai,Backend Architect ,Det_150
+Job_154,Comp_20,"Bangalore, Hyderabad",Program Manager ,Det_151
+Job_155,Comp_107,Chennai,Head of Engineering ,Det_152
+Job_156,Comp_0,"Bangalore, Chennai, Mumbai",Azure Databricks Developer  ,Det_153
+Job_157,Comp_47,Noida,Software Development Engineer ,Det_154
+Job_158,Comp_108,Bangalore,SDE 3 ,Det_155
+Job_159,Comp_109,Hyderabad,Warehouse Manager - Retails ,Det_156
+Job_160,Comp_110,Work From Home,Business Development Associate ,Det_157
+Job_161,Comp_111,Ahmedabad,.NET Developer ,Det_158
+Job_162,Comp_34,Bangalore,Senior Product Manager ,Det_159
+Job_163,Comp_112,Mumbai,Key Account Manager  ,Det_160
+Job_164,Comp_0,Mumbai,React.js Developer  ,Det_161
+Job_165,Comp_34,Bangalore,"Backend, Node.js Python Developer ",Det_162
+Job_166,Comp_41,Bangalore,Project Lead / Test Engineer ,Det_163
+Job_167,Comp_113,Bangalore,Category Manager ,Det_164
+Job_168,Comp_114,Work From Home,Backend Engineer ,Det_165
+Job_169,Comp_34,Mumbai,Software Engineering - Backend ,Det_166
+Job_170,Comp_33,Bangalore,Android Architect ,Det_167
+Job_171,Comp_97,Bangalore,SSE Backend ,Det_168
+Job_172,Comp_115,Gurgaon,Senior Technical Lead Engineer ,Det_169
+Job_173,Comp_2,Bangalore,.NET Developer ,Det_170
+Job_174,Comp_116,Work From Home,Data Engineer ,Det_171
+Job_175,Comp_117,Work From Home,SAP FICO + Tax Consultant ,Det_172
+Job_176,Comp_110,Work From Home,Business Development Associate  ,Det_173
+Job_177,Comp_118,Bangalore,Accounts Executive ,Det_174
+Job_178,Comp_20,Hyderabad,Business Systems Analyst  ,Det_175
+Job_179,Comp_0,Mumbai,.NET Azure Fullstack Developer  ,Det_176
+Job_180,Comp_119,Gurgaon,Quality Assurance Engineer ,Det_177
+Job_181,Comp_120,Noida,Python Developer ,Det_178
+Job_182,Comp_105,"Kolkata, Mumbai",Regional Supply Head  ,Det_179
+Job_183,Comp_31,"Bangalore, Gurgaon","Manager / Senior Manager / AD, Strategic Accounts  ",Det_180
+Job_184,Comp_0,Mumbai,Azure DevOps  ,Det_181
+Job_185,Comp_79,Coimbatore,Power BI MSBI SQL Developer ,Det_182
+Job_186,Comp_121,Bangalore,Insight Analyst ,Det_183
+Job_187,Comp_92,Bangalore,Senior Financial Business Analyst [T500 - 6950 ,Det_184
+Job_188,Comp_69,Bangalore,Dotnet Developer ,Det_185
+Job_189,Comp_122,Bangalore,Senior Content Marketer - B2C  ,Det_186
+Job_190,Comp_123,Bangalore,Principle Software Engineer ,Det_187
+Job_191,Comp_59,Bangalore,Principal Software Engineer ,Det_188
+Job_192,Comp_1,"Bangalore, Work From Home",Frontend Engineet - SDE1 / SDE2 ,Det_189
+Job_193,Comp_99,Bangalore,Senior Data Scientist ,Det_190
+Job_194,Comp_59,Bangalore,Principal Software Engineer ,Det_191
+Job_195,Comp_124,Gurgaon,Associate - Sales Representative / Inside Sales  ,Det_192
+Job_196,Comp_125,Bangalore,Software Developer ,Det_193
+Job_197,Comp_15,"Chennai, Hyderabad, Vijayawada",Sales Executive - Modern Trade  ,Det_17
+Job_198,Comp_126,Bangalore,Business Development Executive ,Det_194
+Job_199,Comp_127,Bangalore,Front End Developer - Angularjs ,Det_195
+Job_200,Comp_4,Hyderabad,Senior Data Scientist ,Det_196
+Job_201,Comp_128,Hyderabad,Full Stack Developer - Java ,Det_197
+Job_202,Comp_129,Bangalore,DevOps Engineer ,Det_198
+Job_203,Comp_4,Hyderabad,Lead Developer ,Det_199
+Job_204,Comp_116,Work From Home,Secops Manager ,Det_200
+Job_205,Comp_71,Work From Home,Senior Fullstack Developer [T500 - 6970 ,Det_201
+Job_206,Comp_130,Bangalore,Product Manager ,Det_202
+Job_207,Comp_97,Bangalore,SDE II Frontend ,Det_203
+Job_208,Comp_115,Gurgaon,Software Engineer - Python ,Det_204
+Job_209,Comp_106,Ahmedabad,PHP Developer ,Det_205
+Job_210,Comp_26,Bangalore,Product Manager ,Det_206
+Job_211,Comp_131,Bangalore,Digital Marketing Executive ,Det_207
+Job_212,Comp_132,Bangalore,Lead Data Engineer ,Det_208
+Job_213,Comp_105,"Bangalore, Gurgaon, Mumbai",Territory Sales Manager ,Det_147
+Job_214,Comp_125,Bangalore,Associate / Sr. Associate - Inside Sales  ,Det_209
+Job_215,Comp_133,Bangalore,VP Engineering ,Det_210
+Job_216,Comp_134,Gurgaon,Tech Lead Engineer ,Det_211
+Job_217,Comp_118,Bangalore,Sales Consultant ,Det_212
+Job_218,Comp_135,Noida,Business Development Executive ,Det_213
+Job_219,Comp_136,Mumbai,Full Stack Developer - MEAN ,Det_214
+Job_220,Comp_14,Work From Home,Technical Product Manager ,Det_215
+Job_221,Comp_137,Mumbai,Social Media Marketing Executive ,Det_216
+Job_222,Comp_138,Work From Home,Backend Lead / Founding Engineer ,Det_217
+Job_223,Comp_18,Work From Home,Event Manager  ,Det_218
+Job_224,Comp_4,Hyderabad,SSE ,Det_199
+Job_225,Comp_139,Bangalore,Deputy Manager - Performance Marketing  ,Det_219
+Job_226,Comp_140,Delhi,Senior Digital Marketing Manager / Head of Marketing ,Det_220
+Job_227,Comp_32,Bangalore,Software Engineer - Frontend ,Det_38
+Job_228,Comp_26,Mumbai,Associate Sales ,Det_221
+Job_229,Comp_7,"Bangalore, Mumbai",ASW Cloud Security Manager  ,Det_222
+Job_230,Comp_37,Bangalore,Full Stack Developer ,Det_223
+Job_231,Comp_2,Bangalore,SRE - TKG ,Det_224
+Job_232,Comp_141,Bangalore,Product Owner - Retail Apps ,Det_225
+Job_233,Comp_142,Bangalore,Senior Backend Engineer ,Det_226
+Job_234,Comp_112,"Bangalore, Hyderabad, Noida",Admission Counsellor Study Abroad  ,Det_227
+Job_235,Comp_143,Bangalore,Engineering Manager ,Det_228
+Job_236,Comp_144,Work From Home,Software Engineer II ,Det_229
+Job_237,Comp_145,Hyderabad,Technical Writer  ,Det_230
+Job_238,Comp_146,Bangalore,Senior DevOps Engineer ,Det_231
+Job_239,Comp_147,Bangalore,Android Developer ,Det_232
+Job_240,Comp_148,Noida,Senior Visualizer ,Det_233
+Job_241,Comp_34,Bangalore,Senior Product Manager ,Det_234
+Job_242,Comp_0,"Bangalore, Chennai, Mumbai",GCP Developer  ,Det_235
+Job_243,Comp_51,Bangalore,Anaplan Analyst / Manager  ,Det_236
+Job_244,Comp_122,Bangalore,Customer Support Executive - KYC Specialist  ,Det_237
+Job_245,Comp_4,Hyderabad,Python Developer ,Det_238
+Job_246,Comp_57,Work From Home,.NET Developer ,Det_239
+Job_247,Comp_149,Kolkata,Software Engineer 2 ,Det_240
+Job_248,Comp_95,Work From Home,Data Scientists ,Det_241
+Job_249,Comp_68,Bangalore,Software Engineer ,Det_242
+Job_250,Comp_92,Bangalore,Senior Financial Business Analyst [T500 - 6951 ,Det_184
+Job_251,Comp_20,"Bangalore, Hyderabad",Senior Software Engineer - Full Stack  ,Det_243
+Job_252,Comp_3,"Mumbai, Pune",Territory Sales Manager  ,Det_5
+Job_253,Comp_150,Work From Home,Customer Integration Engineer ,Det_244
+Job_254,Comp_34,Bangalore,Senior Product Manager - Fintech ,Det_36
+Job_255,Comp_19,Gurgaon,Manager II - Third Party Assessments ,Det_245
+Job_256,Comp_151,Bangalore,Vice President of Engineering ,Det_246
+Job_257,Comp_34,Bangalore,Senior Product Manager ,Det_44
+Job_258,Comp_9,Hyderabad,Assistant Manager - B2C Inside Sales  ,Det_247
+Job_259,Comp_3,"Bangalore, Delhi",Office Operations  ,Det_248
+Job_260,Comp_0,"Bangalore, Chennai, Mumbai",Big Data - Java Spark Developer  ,Det_249
+Job_261,Comp_152,Pune,Functional Consultant ,Det_250
+Job_262,Comp_88,Bangalore,Regional Sales Manager ,Det_251
+Job_263,Comp_2,Bangalore,.NET Full Stack Lead / Architect ,Det_252
+Job_264,Comp_153,Bangalore,Salesforce Developer ,Det_253
+Job_265,Comp_88,Bangalore,Backend Developer - Java ,Det_254
+Job_266,Comp_71,Work From Home,Senior Cybersecurity Engineer [T500 - 6926 ,Det_255
+Job_267,Comp_71,Work From Home,Cybersecurity Engineer [Tt500 - 6862 ,Det_256
+Job_268,Comp_154,Work From Home,Software Technical Support Engineer ,Det_257
+Job_269,Comp_155,Hyderabad,Full Stack Java Developer ,Det_258
+Job_270,Comp_156,Bangalore,DevOps Cloud Engineer ,Det_259
+Job_271,Comp_21,Mumbai,Customer Delight  ,Det_260
+Job_272,Comp_153,Bangalore,Salesforce Administartor ,Det_261
+Job_273,Comp_156,Bangalore,DevOps Cloud Engineer ,Det_262
+Job_274,Comp_157,Mumbai,Sales Specialist ,Det_263
+Job_275,Comp_97,Bangalore,SSE - Frontend ,Det_264
+Job_276,Comp_158,Work From Home,Assistant Brand Manager ,Det_265
+Job_277,Comp_127,Bangalore,Senior / Member of Technical Staff ,Det_266
+Job_278,Comp_105,"Jamshedpur, Kolkata, Ranchi",Territory Sales Manager ,Det_267
+Job_279,Comp_159,Bangalore,Software Developer ,Det_268
+Job_280,Comp_17,Bangalore,Tech Lead Manager ,Det_269
+Job_281,Comp_86,Mumbai,Program Manager - Data Management ,Det_270
+Job_282,Comp_160,Delhi,Business Development Associate ,Det_271
+Job_283,Comp_161,Bangalore,Training Manager  ,Det_272
+Job_284,Comp_19,Gurgaon,Senior VP - Indian Operation ,Det_273
+Job_285,Comp_162,Mumbai,Education Counsellor - B2C Sales ,Det_274
+Job_286,Comp_163,Work From Home,Senior Java Developer ,Det_275
+Job_287,Comp_74,Coimbatore,Senior ML Architect ,Det_276
+Job_288,Comp_23,Work From Home,Site Reliability Engineer ,Det_277
+Job_289,Comp_146,Bangalore,Lead Developer - API ,Det_278
+Job_290,Comp_164,Mumbai,Engineering Help Desk Technician ,Det_279
+Job_291,Comp_0,Mumbai,Oracle - UFT Testing  ,Det_280
+Job_292,Comp_153,Bangalore,ServiceNow Developer ,Det_281
+Job_293,Comp_128,Bangalore,Full Stack Developers - Java ,Det_282
+Job_294,Comp_0,"Bangalore, Chennai, Mumbai",Snowflake Developer  ,Det_283
+Job_295,Comp_165,Work From Home,Senior Financial Accountant  ,Det_284
+Job_296,Comp_139,Bangalore,Content Writer  ,Det_285
+Job_297,Comp_21,Mumbai,Customer Success Manager  ,Det_286
+Job_298,Comp_30,Work From Home,SEO Specialist  ,Det_287
+Job_299,Comp_166,Noida,Business Development Executive ,Det_288
