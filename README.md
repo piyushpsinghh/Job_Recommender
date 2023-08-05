@@ -1,7 +1,7 @@
 # 
-# <h>  **InstaHyre Job Analysis with Web Scrapping, Python, SQL, Power Query, MS Excel and MS PowerPoint.**
+# <h>  **Job Recommendation model with advanced analytics using Web Scrapping, Python, Power Query, MS Excel and MS PowerPoint.**
 
-**The depository contains the analysis of Job openings available on InstaHyre.com job portal on the basis of location, fields, profiles, years of experience required, company size etc. The Project's objectives  were to investigate accessibility of jobs and to help a person to find the most suitable jobs based on his/her eligibilities and preferences. Additionally, it compared the availability of jobs in different locations, profiles, fields, level of experience etc. Moreover, it aimed to reveal some of the dataset's hidden insights. The Webscrapping part was done with Python (Beautiful Soap, Selenium, Pandas), Data cleaning part was done with Python (Pandas) and Power Query (MS Excel), the Aggregation of Data and Formation of Tables in SQL and the Analysis of Data along with the  Visualisation in MS Excel. This project was completed under the supervision of the Instructional Associate for our batch at Masai School, Mr Sushant Ranjan within 7 days.**
+**Developed a web-based recommendation model using machine learning to provide personalized job suggestions based on user skill sets and preferences. The model was trained in Jupyter Notebook, leveraging Scikit-Learn, NumPy, and Pandas for data processing and modeling. The implementation was done using Streamlit for a user-friendly interface. The web application, designed with HTML, CSS, and JavaScript, enables users to explore relevant job openings, ideal experience levels, suitable departments, and compatible company culture, all tailored to their unique skill set and requirements.**
 
 
 
@@ -14,20 +14,20 @@
 
 | Files| Description |
 | ------------- | ------------- |
-| **FinalDashBoard.xlsx** | This file contains the Excel worksheets and dashboard of the insights. |
-| **WebScrapping.ipynb** | This file contains the ipynb code of the Web scrapping part. |
-| **Data Cleaning .ipynb** | This file contains the ipynb code of the data cleaning part. |
-| **Schema_Queries.sql**  | This file provides SQL queries of the aggregation of the data   |
-| **Job_analysis.pptx**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
-| **DATATA.xlsx**  | This file provides the raw data for analysis .  |
-| **COMPANY2.csv, Comp_Loc.csv, Det_Skills.csv, Details1.csv, JOBS2.csv, Role_Designation.csv**  | These files contain the final data drawn out after the data cleaning.  |
+| **dataset**  | This folder contains the csv file for analysis & modelling purpose.|
+| **preprocessing** | This folder contains the ipynb file that is related to scrapping and cleaning. |
+| **ml model**  | This folder contains the machine learning model file like pickle & ipynb file  |
+| **app.py**  | This file contain the streamlit python code used for the deployment purpose  |
+| **web** | This folder contains the css,js file used to enhance the graphical user interface |
+| **index.html** | This file contains the html code used to start the run the project & display web view . |
+|**presentation.pptx**| This file is the powerpoint presentation file used for the presentation purpose|
 <br>
 
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     
-    o       Analysed the relationship between the number of Job Openings and the Size of the companies.
+    o Analysed the relationship between the number of Job Openings and the Size of the companies.
     
     o	Explored the trends for the different job profiles and the number of job openings available for them.
      
