@@ -20,7 +20,7 @@
 | **app.py**  | This file contain the streamlit python code used for the deployment purpose  |
 | **web** | This folder contains the css,js file used to enhance the graphical user interface |
 | **index.html** | This file contains the html code used to start the run the project & display web view . |
-|**presentation.pptx**| This file is the powerpoint presentation file used for the presentation purpose|
+|**ml_pres.pptx**| This file is the powerpoint presentation file used for the presentation purpose|
 <br>
 
 
