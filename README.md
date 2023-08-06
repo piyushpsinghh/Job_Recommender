@@ -41,9 +41,8 @@
 
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
-![language-sql](https://user-images.githubusercontent.com/106439762/181936585-d44c5f7c-2a7b-4d35-ad8a-61dcbded1a5e.svg)
-![microsoft-sql-server](https://user-images.githubusercontent.com/106439762/181936612-f96e085e-2d4b-4bc0-8347-1f3e0a894395.svg)
-![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>         <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>          <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>       <img width="50" height="50" src="https://img.icons8.com/ios/50/selenium-test-automation.png" alt="selenium-test-automation"/>        <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>       <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>       <img width="50" height="45" src="https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/50/external-machine-learning-technology-in-daily-life-parzival-1997-outline-color-parzival-1997.png" alt="external-machine-learning-technology-in-daily-life-parzival-1997-outline-color-parzival-1997"/>      <img width="45" height="45" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-html-web-development-flaticons-lineal-color-flat-icons.png" alt="external-html-web-development-flaticons-lineal-color-flat-icons"/>        <img width="50" height="50" src="https://img.icons8.com/pulsar-color/48/css-filetype.png" alt="css-filetype"/>          <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 
 
 
@@ -54,77 +53,34 @@
 
 <br>
 
-# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
-
-    1. Started with scrapping of the data from InstaHyre's website with Python and saving it into CSV files, imported the CSV files into an Excel file.
-    
-    2. Did the Data cleaning part with the help of Pandas and Power Query (MS Excel), imported the CSVs into MySQL for further analysis. 
- 
-    3. Imported CSVs in MySQL, created tables using Group By, Join, Trim, Constraints etc.
-    
-    4. Exported all the tables from MySQL to MS Excel and created required tables to gain some insights.
-    
-    5. Performed in depth analysis of the data in MS Excel using Pivot tables and charts.
-    
-    6. Created different charts from the table for better understanding of the data.
-    
-    7. Also Designed a Interactive Dashboard from the charts for better visualisation.
-    
-    8. Created some useful drop-downs for fetching the required Data like Standard Experience, Standard Role (Profiles) and Location.
-    
-    9. Created a Powerpoint presentation with all the insights and the conclusions listed with the in depth analysis.
-    
-
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Screenshot
+<img src="https://github.com/piyushpsinghh/Job_Recommender/blob/main/static/img%201.jpg"  height="400"  width="100%">
+<img src="https://github.com/piyushpsinghh/Job_Recommender/blob/main/static/img%203.jpg"  height="400"  width="100%">
+<img src="https://github.com/piyushpsinghh/Job_Recommender/blob/main/static/img%202.jpg"  height="400"  width="100%">
 
 <br>
 
-# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > About ML Model 
+  <div align="center">
+  <img src="https://github.com/piyushpsinghh/Job_Recommender/blob/main/static/img%204.jpg" height="350" width="80%">
+</div>
+
+
    
-   1. The companies with Employee size of above 1000 employees and above 50 (under 200) employees have the highest number of Job openings, whereas companies having less than 10 employees have least number of job openings. 
-   
-   2. There are highest number of job openings in Job Profiles like Management, Marketing and Software Engineers, whereas Job Profiles like Accountancy, Designers and Writers have the least number of job openings.
-   
-   3. Freshers (0-2 years of Experience) and Experts (above 15 years of Experience) are the least in demand segment of the job seekers, whereas Advanced (5-10 years of Experience) and Intermediate (between 2-5 years of Experience) are the highest in demand segment of the job seekers.
-   
-   4. Programming languages like Python, Java and Java script are the most in demand skills.
-   
-   5. Bangalore and Mumbai are the Cities with highest number of job openings.
-   
-   6. Work From Home is surprisingly the 3rd highest segment in locations with highest number of jobs, indicating the increasing preference of the companies for WFH in post pandemic period as it reduces the requirement of infrastructure for the company, reduces the cost of operations and also remains employee friendly.
-   
-   7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in them are creating the highest number of employment in India.
    <br>
    
    
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
-   
-   <B> The aim of the Project is to: </B>
-   
-   1. Assist the people in finding the most suitable jobs based on their eligibilities and preferences. 
-   
-   2. Help the migratory work force in finding out the most suitable locations for their respective work fields.
-   
-   3. To provide an idea of the employement situation in the country.
-   
-   4. Helping out the freshers and the people lacking in information, in finding the easiest path to secure employment.
-   
-   5. Helping the new Generation to plan their future with the information like most in demand skills, locations with highest number of job openings, most in demand job profiles etc.
-   
-   6. Empowerment of common people with the relevant information that can help them to secure employment, reduce the accessability gap between the companies and the job seekers and aid to the raising employment rate of the country.
-   
-   
-   
-    
+      
+1  **Build Pipeline**: In order to take this project to the next level we can create a kind of pipeline in which the scrapped data automatically clean, load into the mysql , power bi and build the model without human intervention. 
 
-![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
+2  **Real-time Data Updates**: Implement a scheduled data scraping process to keep the MySQL database updated with the latest job data. This way, the dashboard in Power BI and machine learning aligorithm can reflect real-time insights, allowing users to stay up-to-date with the evolving political landscape.
 
+3  **Multi-Platform Deployment**: Extend the project's reach by deploying the interactive dashboard & model  on various platforms, such as web applications or mobile apps, to make it accessible to a broader audience.
    
- 
-
-<!--  # <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
-I'm an aspiring data analyst...
-
-
-#  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
-
-<a href="https://www.linkedin.com/in/yash-upadhyay-9b642a254/" ><img src="https://user-images.githubusercontent.com/106439762/182037233-49248ea9-c7a4-4f55-9fe4-5fe24e5ef160.png" width="48" height="48"> 
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > To run this project 
+--> download this zip file & extract it  <br>
+--> open in vscode <br>
+--> open terminal <br>
+--> execute command "streamlit run app.py"  <br>
+--> go live with index.html file
