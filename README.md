@@ -60,24 +60,33 @@
 
 <br>
 
-# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > About ML Model 
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" >  About ML Model 
   <div align="center">
   <img src="https://github.com/piyushpsinghh/Job_Recommender/blob/main/static/img%204.jpg" height="350" width="80%">
 </div>
 
+#  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Challenges Faced
 
-   
+ o Coordination issue: Not discuss about the  problem in the starting directly jump into the technical part 
+ 
+ o	Model Building Issue: Need to learn how to deal with the text data , Explore the NLTK Library
+ 
+ o	Model Deployment Issue: Get to know about the different ways to deploy the model , Explore about the streamlit library
+
    <br>
    
    
-   #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
+  # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" >  Future Scope
       
 1  **Build Pipeline**: In order to take this project to the next level we can create a kind of pipeline in which the scrapped data automatically clean, load into the mysql , power bi and build the model without human intervention. 
 
 2  **Real-time Data Updates**: Implement a scheduled data scraping process to keep the MySQL database updated with the latest job data. This way, the dashboard in Power BI and machine learning aligorithm can reflect real-time insights, allowing users to stay up-to-date with the evolving political landscape.
 
 3  **Multi-Platform Deployment**: Extend the project's reach by deploying the interactive dashboard & model  on various platforms, such as web applications or mobile apps, to make it accessible to a broader audience.
-   
+
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion 
+Our project successfully combines machine learning and web development to deliver personalized job recommendations. Through Scikit-Learn, Pandas, and NumPy, we processed and modeled data, creating a powerful recommendation engine. Streamlit facilitated seamless conversion to a user-friendly web app, allowing users to explore ideal job matches based on their skills and preferences. Our integration of HTML, CSS, and JavaScript produced an intuitive interface for a holistic user experience. By bridging data science and web technology, we've created a practical solution that empowers job seekers in their career journey.
+
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > To run this project 
 --> download this zip file & extract it  <br>
 --> open in vscode <br>
